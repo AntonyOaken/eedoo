@@ -1,0 +1,2 @@
+import {api,ApiError} from '@/lib/server/http';import {scope} from '@/lib/server/input';import {placeById,mapMedia} from '@/lib/server/catalog';
+export const GET=(r:Request)=>api('catalog-place',r,async()=>{const p=new URL(r.url).searchParams,s=scope(p.get('city'),p.get('mode')),id=p.get('id');if(!id||id.length>200)throw new ApiError(400,'Некорректное место.');const row=await placeById(s.city,s.mode,id);if(!row)throw new ApiError(404,'Место не найдено.');return Response.json((await mapMedia([row]))[0]);});

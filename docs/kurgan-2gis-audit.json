@@ -1,0 +1,750 @@
+{
+  "checkedAt": "2026-10-06",
+  "cardsChecked": 42,
+  "updatedPlaces": 21,
+  "newPlaces": 20,
+  "photosStored": 40,
+  "schedulesStored": 23,
+  "observations": [
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164531228",
+      "name": "Курганский областной художественный музей им. Германа Травникова",
+      "result": "Updated",
+      "targetId": "osm-way-82200885",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164535328",
+      "name": "Дом-музей декабристов",
+      "result": "Updated",
+      "targetId": "osm-way-72877704",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001024175863",
+      "name": "Музей книги",
+      "result": "Added",
+      "targetId": "2gis-70000001024175863",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164569664",
+      "name": "Музей истории города",
+      "result": "Updated",
+      "targetId": "osm-way-80619716",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001024176016",
+      "name": "Музей Фотографии №1",
+      "result": "Updated",
+      "targetId": "osm-way-80619711",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001035164235",
+      "name": "Сделано в СССР",
+      "result": "Added",
+      "targetId": "2gis-70000001035164235",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164569668",
+      "name": "Дом-музей В. К. Кюхельбекера",
+      "result": "Updated",
+      "targetId": "osm-way-80605952",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164531230",
+      "name": "Краеведческий музей",
+      "result": "Updated",
+      "targetId": "osm-way-80657494",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001018706149",
+      "name": "Аллея Славы",
+      "result": "Updated",
+      "targetId": "google-0xf4a2a49b56777e66",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164549937",
+      "name": "Авиационный музей",
+      "result": "Updated",
+      "targetId": "osm-way-176989977",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164571548",
+      "name": "Музей истории развития центра им. академика Г. А. Илизарова",
+      "result": "Updated",
+      "targetId": "osm-node-3379998815",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001027756922",
+      "name": "Время",
+      "result": "Added",
+      "targetId": "2gis-70000001027756922",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001024176580",
+      "name": "Музей истории",
+      "result": "Added",
+      "targetId": "2gis-70000001024176580",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001069928961",
+      "name": "Музей истории больницы",
+      "result": "Added",
+      "targetId": "2gis-70000001069928961",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407904164885391",
+      "name": "Центр противопожарной пропаганды",
+      "result": "Added",
+      "targetId": "2gis-1407904164885391",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001084099698",
+      "name": "Музей музеев",
+      "result": "Added",
+      "targetId": "2gis-70000001084099698",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001097363989",
+      "name": "Музей профсоюзов Зауралья",
+      "result": "Added",
+      "targetId": "2gis-70000001097363989",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001006919365",
+      "name": "Музей военной техники",
+      "result": "Updated",
+      "targetId": "osm-node-9866624961",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001024714127",
+      "name": "Литературно-краеведческий музей им. Сергея Васильева",
+      "result": "Added",
+      "targetId": "2gis-70000001024714127",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001105078137",
+      "name": "Парк Победы",
+      "result": "Updated",
+      "targetId": "osm-relation-3175505",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001076239564",
+      "name": "Детский парк г. Кургана",
+      "result": "Updated",
+      "targetId": "osm-relation-2293502",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001090365041",
+      "name": "Центральный парк культуры и отдыха им. 50-летия Великого Октября",
+      "result": "Updated",
+      "targetId": "osm-way-239715417",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "phone",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164654766",
+      "name": "Городской сад им. Александра Невского",
+      "result": "Updated",
+      "targetId": "osm-way-235881388",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076210212451",
+      "name": "Сквер-фонтан",
+      "result": "Added",
+      "targetId": "2gis-70030076210212451",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076203004699",
+      "name": "Сквер Юбилейный",
+      "result": "Updated",
+      "targetId": "osm-way-1381121659",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001026962850",
+      "name": "Курган-парк",
+      "result": "Updated",
+      "targetId": "google-0xad770285d1f159d8",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076263094059",
+      "name": "Сквер Семейный",
+      "result": "Updated",
+      "targetId": "osm-way-1120554459",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/1408062078320663",
+      "name": "Бошняковский сквер",
+      "result": "Added",
+      "targetId": "2gis-1408062078320663",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076126060571",
+      "name": "Стадион-парк Энергетик",
+      "result": "Added",
+      "targetId": "2gis-70030076126060571",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001113097791",
+      "name": "Натурпарк",
+      "result": "Added",
+      "targetId": "2gis-70000001113097791",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164666030",
+      "name": "Храм Порт-Артурской иконы Божией Матери",
+      "result": "Updated",
+      "targetId": "osm-way-114835570",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "website",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001017298355",
+      "name": "Богоявленский собор",
+      "result": "Updated",
+      "targetId": "osm-way-452637088",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/70000001054532860",
+      "name": "Свято-Троицкий собор",
+      "result": "Added",
+      "targetId": "2gis-70000001054532860",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/firm/1407903164587542",
+      "name": "Свято-Духовский храм",
+      "result": "Updated",
+      "targetId": "osm-way-103318434",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076201933360",
+      "name": "Арт-объект Звезда",
+      "result": "Added",
+      "targetId": "2gis-70030076201933360",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076295127180",
+      "name": "Арт-объект Орёл",
+      "result": "Added",
+      "targetId": "2gis-70030076295127180",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/1408070668255321",
+      "name": "Памятник Д.Е. Пичугину",
+      "result": "Coordinate mismatch: 2876m"
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030077157986344",
+      "name": "Вечный огонь",
+      "result": "Updated",
+      "targetId": "osm-way-236042654",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030077179700122",
+      "name": "Скульптура Мальчик с собакой",
+      "result": "Added",
+      "targetId": "2gis-70030077179700122",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/1408070668255298",
+      "name": "Мемориал погибшим в боях кургансельмашевцам",
+      "result": "Added",
+      "targetId": "2gis-1408070668255298",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/1408070668255327",
+      "name": "Памятник Д.И. Смолину",
+      "result": "Added",
+      "targetId": "2gis-1408070668255327",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    },
+    {
+      "sourceUrl": "https://2gis.ru/kurgan/geo/70030076194477816",
+      "name": "Арт-объект Фигуристка и Хоккеист",
+      "result": "Added",
+      "targetId": "2gis-70030076194477816",
+      "fields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ]
+    }
+  ]
+}

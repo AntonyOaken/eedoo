@@ -1,0 +1,30 @@
+name: checks
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      db:
+        image: postgis/postgis:17-3.5
+        env: {POSTGRES_DB: poputi_test, POSTGRES_USER: poputi, POSTGRES_PASSWORD: test-only}
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U poputi -d poputi_test"
+          --health-interval 5s --health-timeout 5s --health-retries 20
+    env:
+      DATABASE_URL: postgresql://poputi:test-only@localhost:5432/poputi_test
+      NEXT_TELEMETRY_DISABLED: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 24}
+      - run: npm install --global pnpm@11.25.0
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm typecheck
+      - run: pnpm test
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install Pillow
+      - run: python -m unittest discover -s tests -p '*_import_test.py'
+      - run: pnpm db:migrate && pnpm test:integration
+      - run: pnpm build

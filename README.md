@@ -1,6 +1,6 @@
 # Попути
 
-Пешеходные прогулки: Санкт-Петербург, Курган, Пхукет. React 19 / TypeScript / Next.js 16 / Leaflet; PostgreSQL + PostGIS; Redis; S3-совместимое хранение фото; Nginx и Docker Compose. Импорт исходных наблюдений 2ГИС выполняет Python. Фото вынесены из текущего дерева Git и сохраняются отдельно; старые версии остаются в истории. История Sites сохранена в Git, миграция — ветка `migration/self-hosted`.
+Пешеходные прогулки: Санкт-Петербург, Курган, Пхукет. React 19 / TypeScript / Next.js 16 / Leaflet; PostgreSQL + PostGIS; Redis; S3-совместимое хранение фото; Nginx и Docker Compose. Импорт исходных наблюдений 2ГИС выполняет Python. Фото вынесены из текущего дерева Git и сохраняются отдельно; старые версии остаются в истории. Полная история Sites сохранена в отдельном Git bundle; см. `docs/source-provenance.md`. На GitHub переносится проверенный снимок ветки `migration/self-hosted`.
 
 ## Разработка
 

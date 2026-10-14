@@ -1,0 +1,168 @@
+{
+  "https://2gis.ru/kurgan/firm/1407903164531228": {
+    "category": "Музей",
+    "id": "osm-way-82200885",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/1407903164535328": {
+    "category": "Музей",
+    "id": "osm-way-72877704",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/70000001024175863": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/1407903164569664": {
+    "category": "Музей",
+    "id": "osm-way-80619716",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/70000001024176016": {
+    "category": "Музей",
+    "id": "osm-way-80619711",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/70000001035164235": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/1407903164569668": {
+    "category": "Музей",
+    "id": "osm-way-80605952",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/1407903164531230": {
+    "category": "Музей",
+    "id": "osm-way-80657494",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/70000001018706149": {
+    "category": "Музей",
+    "id": "google-0xf4a2a49b56777e66",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/1407903164549937": {
+    "category": "Музей",
+    "id": "osm-way-176989977",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/1407903164571548": {
+    "category": "Музей",
+    "id": "osm-node-3379998815",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/70000001027756922": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/70000001024176580": {
+    "category": "Музей",
+    "displayName": "Музей истории Южно-Уральской железной дороги"
+  },
+  "https://2gis.ru/kurgan/firm/70000001069928961": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/1407904164885391": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/70000001084099698": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/70000001097363989": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/70000001006919365": {
+    "category": "Музей",
+    "id": "osm-node-9866624961",
+    "maxDistance": 110
+  },
+  "https://2gis.ru/kurgan/firm/70000001024714127": {
+    "category": "Музей"
+  },
+  "https://2gis.ru/kurgan/firm/70000001105078137": {
+    "category": "Парк",
+    "id": "osm-relation-3175505",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/firm/70000001076239564": {
+    "category": "Парк",
+    "id": "osm-relation-2293502",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/firm/70000001090365041": {
+    "category": "Парк",
+    "id": "osm-way-239715417",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/firm/1407903164654766": {
+    "category": "Парк",
+    "id": "osm-way-235881388",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/geo/70030076210212451": {
+    "category": "Парк"
+  },
+  "https://2gis.ru/kurgan/geo/70030076203004699": {
+    "category": "Парк",
+    "id": "osm-way-1381121659",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/firm/70000001026962850": {
+    "category": "Парк",
+    "id": "google-0xad770285d1f159d8",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/geo/70030076263094059": {
+    "category": "Парк",
+    "id": "osm-way-1120554459",
+    "maxDistance": 300
+  },
+  "https://2gis.ru/kurgan/geo/1408062078320663": {
+    "category": "Парк"
+  },
+  "https://2gis.ru/kurgan/geo/70030076126060571": {
+    "category": "Парк"
+  },
+  "https://2gis.ru/kurgan/firm/70000001113097791": {
+    "category": "Парк"
+  },
+  "https://2gis.ru/kurgan/firm/1407903164666030": {
+    "category": "Храм",
+    "id": "osm-way-114835570"
+  },
+  "https://2gis.ru/kurgan/firm/70000001017298355": {
+    "category": "Храм",
+    "id": "osm-way-452637088"
+  },
+  "https://2gis.ru/kurgan/firm/70000001054532860": {
+    "category": "Храм"
+  },
+  "https://2gis.ru/kurgan/firm/1407903164587542": {
+    "category": "Храм",
+    "id": "osm-way-103318434"
+  },
+  "https://2gis.ru/kurgan/geo/70030076201933360": {
+    "category": "Памятник"
+  },
+  "https://2gis.ru/kurgan/geo/70030076295127180": {
+    "category": "Памятник"
+  },
+  "https://2gis.ru/kurgan/geo/1408070668255321": {
+    "category": "Памятник",
+    "id": "google-0xe9d6f7dfd595c91f"
+  },
+  "https://2gis.ru/kurgan/geo/70030077157986344": {
+    "category": "Памятник",
+    "id": "osm-way-236042654"
+  },
+  "https://2gis.ru/kurgan/geo/70030077179700122": {
+    "category": "Памятник"
+  },
+  "https://2gis.ru/kurgan/geo/1408070668255298": {
+    "category": "Памятник"
+  },
+  "https://2gis.ru/kurgan/geo/1408070668255327": {
+    "category": "Памятник"
+  },
+  "https://2gis.ru/kurgan/geo/70030076194477816": {
+    "category": "Памятник"
+  }
+}

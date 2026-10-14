@@ -1,0 +1,2261 @@
+{
+  "updatedAt": "2026-10-06",
+  "corrections": {
+    "osm-way-82200885": {
+      "patch": {
+        "name": "Курганский областной художественный музей им. Германа Травникова",
+        "lat": 55.441196,
+        "lon": 65.353343,
+        "category": "Музей",
+        "address": "Улица Максима Горького, 127/4, Курган",
+        "phone": "+73522465563",
+        "website": "https://komo45.ru",
+        "openingHours": "Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-18:00",
+        "hoursNote": "касса: пн-вс 10:00-17:30",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164531228.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164531228",
+          "originalUrl": "https://i8.photo.2gis.com/photo-gallery/c1233a44-28e2-4268-9b1e-06e499619c13.jpg",
+          "author": "âme de mon âme · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164531228",
+          "url": "https://2gis.ru/kurgan/firm/1407903164531228",
+          "checkedAt": "2026-10-06",
+          "name": "Курганский областной художественный музей им. Германа Травникова",
+          "lat": 55.441196,
+          "lon": 65.353343,
+          "category": "Музей",
+          "address": "Улица Максима Горького, 127/4, Курган",
+          "phone": "+73522465563",
+          "website": "https://komo45.ru",
+          "rating": 4.8,
+          "reviewCount": 273,
+          "openingHours": "Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-18:00",
+          "businessStatus": "operational",
+          "hoursNote": "касса: пн-вс 10:00-17:30",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164531228.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164531228",
+            "originalUrl": "https://i8.photo.2gis.com/photo-gallery/c1233a44-28e2-4268-9b1e-06e499619c13.jpg",
+            "author": "âme de mon âme · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164531228",
+        "aliases": [
+          "Художественный музей",
+          "Курганский областной художественный музей"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-72877704": {
+      "patch": {
+        "name": "Дом-музей декабристов",
+        "lat": 55.434625,
+        "lon": 65.353505,
+        "category": "Музей",
+        "address": "Улица Климова, 80а, Курган",
+        "phone": "+73522460683",
+        "website": "https://komo45.ru",
+        "openingHours": "Mo off; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su off",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164535328.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164535328",
+          "originalUrl": "https://i9.photo.2gis.com/images/branch/10/1407374903906418_18a9.jpg",
+          "author": "Иван Страмилов · 3 августа 2017 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164535328",
+          "url": "https://2gis.ru/kurgan/firm/1407903164535328",
+          "checkedAt": "2026-10-06",
+          "name": "Дом-музей декабристов",
+          "lat": 55.434625,
+          "lon": 65.353505,
+          "category": "Музей",
+          "address": "Улица Климова, 80а, Курган",
+          "phone": "+73522460683",
+          "website": "https://komo45.ru",
+          "rating": 4.8,
+          "reviewCount": 152,
+          "openingHours": "Mo off; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-18:00; Su off",
+          "businessStatus": "operational",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164535328.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164535328",
+            "originalUrl": "https://i9.photo.2gis.com/images/branch/10/1407374903906418_18a9.jpg",
+            "author": "Иван Страмилов · 3 августа 2017 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164535328",
+        "aliases": [
+          "Дом-музей декабристов"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-80619716": {
+      "patch": {
+        "name": "Музей истории города",
+        "lat": 55.434722,
+        "lon": 65.348674,
+        "category": "Музей",
+        "address": "Улица Куйбышева, 59, Курган",
+        "phone": "+79634354518",
+        "website": "https://komo45.ru",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164569664.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164569664",
+          "originalUrl": "https://i7.photo.2gis.com/photo-gallery/588fedcd-f6d8-425d-acbf-fdd8db64917c.jpg",
+          "author": "Андрей Kurgan · 11 августа 2024 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164569664",
+          "url": "https://2gis.ru/kurgan/firm/1407903164569664",
+          "checkedAt": "2026-10-06",
+          "name": "Музей истории города",
+          "lat": 55.434722,
+          "lon": 65.348674,
+          "category": "Музей",
+          "address": "Улица Куйбышева, 59, Курган",
+          "phone": "+79634354518",
+          "website": "https://komo45.ru",
+          "rating": 4.9,
+          "reviewCount": 140,
+          "businessStatus": "temporarily_closed",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164569664.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164569664",
+            "originalUrl": "https://i7.photo.2gis.com/photo-gallery/588fedcd-f6d8-425d-acbf-fdd8db64917c.jpg",
+            "author": "Андрей Kurgan · 11 августа 2024 · 2ГИС"
+          }
+        },
+        "businessStatus": "temporarily_closed",
+        "businessStatusSource": "https://2gis.ru/kurgan/firm/1407903164569664",
+        "aliases": [
+          "Музей истории города Курган",
+          "Музей истории города"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-80619711": {
+      "patch": {
+        "name": "Музей Фотографии №1",
+        "lat": 55.435042,
+        "lon": 65.349542,
+        "category": "Музей",
+        "address": "Улица Куйбышева, 65, Курган",
+        "phone": "+73522466292",
+        "openingHours": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa off; Su off",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001024176016.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024176016",
+          "originalUrl": "https://i1.photo.2gis.com/photo-gallery/e3853674-26d6-478d-94ab-fc02a06f628d.jpg",
+          "author": "Андрей Kurgan · 11 августа 2024 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001024176016",
+          "url": "https://2gis.ru/kurgan/firm/70000001024176016",
+          "checkedAt": "2026-10-06",
+          "name": "Музей Фотографии №1",
+          "lat": 55.435042,
+          "lon": 65.349542,
+          "category": "Музей",
+          "address": "Улица Куйбышева, 65, Курган",
+          "phone": "+73522466292",
+          "rating": 3.5,
+          "reviewCount": 5,
+          "openingHours": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa off; Su off",
+          "businessStatus": "operational",
+          "hoursNote": "по предварительной записи",
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001024176016.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024176016",
+            "originalUrl": "https://i1.photo.2gis.com/photo-gallery/e3853674-26d6-478d-94ab-fc02a06f628d.jpg",
+            "author": "Андрей Kurgan · 11 августа 2024 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/70000001024176016",
+        "aliases": [
+          "Фотография №1"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-80605952": {
+      "patch": {
+        "name": "Дом-музей В. К. Кюхельбекера",
+        "lat": 55.430982,
+        "lon": 65.34096,
+        "category": "Музей",
+        "address": "Улица Куйбышева, 19, Курган",
+        "phone": "+73522642090",
+        "website": "https://komo45.ru",
+        "openingHours": "Mo off; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 10:00-18:00; Su off",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164569668.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164569668",
+          "originalUrl": "https://i3.photo.2gis.com/photo-gallery/927b33b5-dc2f-4dfd-8dd0-7727e46604d2.jpg",
+          "author": "NZ · Nika Zauner · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164569668",
+          "url": "https://2gis.ru/kurgan/firm/1407903164569668",
+          "checkedAt": "2026-10-06",
+          "name": "Дом-музей В. К. Кюхельбекера",
+          "lat": 55.430982,
+          "lon": 65.34096,
+          "category": "Музей",
+          "address": "Улица Куйбышева, 19, Курган",
+          "phone": "+73522642090",
+          "website": "https://komo45.ru",
+          "rating": 4.7,
+          "reviewCount": 91,
+          "openingHours": "Mo off; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 10:00-18:00; Su off",
+          "businessStatus": "operational",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164569668.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164569668",
+            "originalUrl": "https://i3.photo.2gis.com/photo-gallery/927b33b5-dc2f-4dfd-8dd0-7727e46604d2.jpg",
+            "author": "NZ · Nika Zauner · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164569668",
+        "aliases": [
+          "Дом-музей декабриста В.К. Кюхельбекера",
+          "Дом-музей В.К. Кюхельбекера"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-80657494": {
+      "patch": {
+        "name": "Краеведческий музей",
+        "lat": 55.440543,
+        "lon": 65.337344,
+        "category": "Музей",
+        "address": "Улица Пушкина, 137, Курган",
+        "phone": "+79091463226",
+        "website": "https://komo45.ru",
+        "hoursNote": "администрация: пн-вс 9:00-18:00; касса: пн-вс 10:00-18:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164531230.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164531230",
+          "originalUrl": "https://i6.photo.2gis.com/photo-gallery/445f7355-6d4b-4e10-a20c-4c82502943cc.jpg",
+          "author": "ВВ · Владимир Владимиров · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164531230",
+          "url": "https://2gis.ru/kurgan/firm/1407903164531230",
+          "checkedAt": "2026-10-06",
+          "name": "Краеведческий музей",
+          "lat": 55.440543,
+          "lon": 65.337344,
+          "category": "Музей",
+          "address": "Улица Пушкина, 137, Курган",
+          "phone": "+79091463226",
+          "website": "https://komo45.ru",
+          "rating": 4.9,
+          "reviewCount": 332,
+          "businessStatus": "temporarily_closed",
+          "hoursNote": "администрация: пн-вс 9:00-18:00; касса: пн-вс 10:00-18:00",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164531230.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164531230",
+            "originalUrl": "https://i6.photo.2gis.com/photo-gallery/445f7355-6d4b-4e10-a20c-4c82502943cc.jpg",
+            "author": "ВВ · Владимир Владимиров · 2ГИС"
+          }
+        },
+        "businessStatus": "temporarily_closed",
+        "businessStatusSource": "https://2gis.ru/kurgan/firm/1407903164531230",
+        "aliases": [
+          "Курганский областной краеведческий музей"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "google-0xf4a2a49b56777e66": {
+      "patch": {
+        "name": "Аллея Славы",
+        "lat": 55.440046,
+        "lon": 65.337736,
+        "category": "Музей",
+        "address": "Улица Володарского, 77, Курган",
+        "phone": "+73522462821",
+        "website": "https://dt45.ru",
+        "openingHours": "Mo 13:00-16:00; Tu 10:00-12:00; We 10:00-12:00; Th 10:00-12:00; Fr 13:00-16:00; Sa 12:00-14:00; Su off",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001018706149.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001018706149",
+          "originalUrl": "https://i5.photo.2gis.com/images/branch/0/30258560051667545_bfb5.jpg",
+          "author": "Надя Михайлова · 18 сентября 2020 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001018706149",
+          "url": "https://2gis.ru/kurgan/firm/70000001018706149",
+          "checkedAt": "2026-10-06",
+          "name": "Аллея Славы",
+          "lat": 55.440046,
+          "lon": 65.337736,
+          "category": "Музей",
+          "address": "Улица Володарского, 77, Курган",
+          "phone": "+73522462821",
+          "website": "https://dt45.ru",
+          "rating": 5.0,
+          "reviewCount": 10,
+          "openingHours": "Mo 13:00-16:00; Tu 10:00-12:00; We 10:00-12:00; Th 10:00-12:00; Fr 13:00-16:00; Sa 12:00-14:00; Su off",
+          "businessStatus": "operational",
+          "hoursNote": "по предварительной записи",
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001018706149.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001018706149",
+            "originalUrl": "https://i5.photo.2gis.com/images/branch/0/30258560051667545_bfb5.jpg",
+            "author": "Надя Михайлова · 18 сентября 2020 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/70000001018706149",
+        "aliases": [
+          "Музей-экспозиция \"Аллея Славы\""
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-176989977": {
+      "patch": {
+        "name": "Авиационный музей",
+        "lat": 55.461181,
+        "lon": 65.412001,
+        "category": "Музей",
+        "address": "Улица Гагарина, 41 ст36, Курган",
+        "phone": "+79195600771",
+        "website": "https://авиамузей45.рф",
+        "openingHours": "Mo off; Tu off; We 10:00-16:00; Th 10:00-16:00; Fr 10:00-16:00; Sa 10:00-16:00; Su 10:00-16:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164549937.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164549937",
+          "originalUrl": "https://i3.photo.2gis.com/images/branch/0/30258560080284655_30c6.jpg",
+          "author": "Фотография из социальных сетей · 24 июля 2019 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164549937",
+          "url": "https://2gis.ru/kurgan/firm/1407903164549937",
+          "checkedAt": "2026-10-06",
+          "name": "Авиационный музей",
+          "lat": 55.461181,
+          "lon": 65.412001,
+          "category": "Музей",
+          "address": "Улица Гагарина, 41 ст36, Курган",
+          "phone": "+79195600771",
+          "website": "https://авиамузей45.рф",
+          "rating": 5.0,
+          "reviewCount": 307,
+          "openingHours": "Mo off; Tu off; We 10:00-16:00; Th 10:00-16:00; Fr 10:00-16:00; Sa 10:00-16:00; Su 10:00-16:00",
+          "businessStatus": "operational",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164549937.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164549937",
+            "originalUrl": "https://i3.photo.2gis.com/images/branch/0/30258560080284655_30c6.jpg",
+            "author": "Фотография из социальных сетей · 24 июля 2019 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164549937",
+        "aliases": [
+          "Выставка авиационной техники",
+          "Авиамузей"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-node-3379998815": {
+      "patch": {
+        "name": "Музей истории развития центра им. академика Г. А. Илизарова",
+        "lat": 55.495123,
+        "lon": 65.303629,
+        "category": "Музей",
+        "address": "Улица Марии Ульяновой, 6 к2, Курган",
+        "phone": "+73522234260",
+        "website": "https://ilizarov.ru",
+        "openingHours": "Mo 09:00-12:00,12:30-17:00; Tu 09:00-12:00,12:30-17:00; We 09:00-12:00,12:30-17:00; Th 09:00-12:00,12:30-17:00; Fr 09:00-12:00,12:30-17:00; Sa off; Su off",
+        "hoursNote": "экскурсии: по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164571548.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164571548",
+          "originalUrl": "https://i1.photo.2gis.com/photo-gallery/41bb406a-bafa-43f9-9462-00d3ce52f3f8.jpg",
+          "author": "Татьяна Федорович · 17 июля 2026 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164571548",
+          "url": "https://2gis.ru/kurgan/firm/1407903164571548",
+          "checkedAt": "2026-10-06",
+          "name": "Музей истории развития центра им. академика Г. А. Илизарова",
+          "lat": 55.495123,
+          "lon": 65.303629,
+          "category": "Музей",
+          "address": "Улица Марии Ульяновой, 6 к2, Курган",
+          "phone": "+73522234260",
+          "website": "https://ilizarov.ru",
+          "rating": 5.0,
+          "reviewCount": 33,
+          "openingHours": "Mo 09:00-12:00,12:30-17:00; Tu 09:00-12:00,12:30-17:00; We 09:00-12:00,12:30-17:00; Th 09:00-12:00,12:30-17:00; Fr 09:00-12:00,12:30-17:00; Sa off; Su off",
+          "businessStatus": "operational",
+          "hoursNote": "экскурсии: по предварительной записи",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164571548.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164571548",
+            "originalUrl": "https://i1.photo.2gis.com/photo-gallery/41bb406a-bafa-43f9-9462-00d3ce52f3f8.jpg",
+            "author": "Татьяна Федорович · 17 июля 2026 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164571548",
+        "aliases": [
+          "РНЦ ВТО",
+          "Музей истории центра академика Г. А. Илизарова"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-node-9866624961": {
+      "patch": {
+        "name": "Музей военной техники",
+        "lat": 55.45575,
+        "lon": 65.321895,
+        "category": "Музей",
+        "address": "Улица Ястржембского, 41а, Курган",
+        "openingHours": "Mo 08:00-17:00; Tu 08:00-17:00; We 08:00-17:00; Th off; Fr off; Sa off; Su off",
+        "hoursNote": "по предварительной записи: пн-пт",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001006919365.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001006919365",
+          "originalUrl": "https://i0.photo.2gis.com/images/branch/10/1407374895241911_96e0.jpg",
+          "author": "Иван Страмилов · 29 сентября 2016 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001006919365",
+          "url": "https://2gis.ru/kurgan/firm/70000001006919365",
+          "checkedAt": "2026-10-06",
+          "name": "Музей военной техники",
+          "lat": 55.45575,
+          "lon": 65.321895,
+          "category": "Музей",
+          "address": "Улица Ястржембского, 41а, Курган",
+          "rating": 3.9,
+          "reviewCount": 14,
+          "openingHours": "Mo 08:00-17:00; Tu 08:00-17:00; We 08:00-17:00; Th off; Fr off; Sa off; Su off",
+          "businessStatus": "operational",
+          "hoursNote": "по предварительной записи: пн-пт",
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001006919365.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001006919365",
+            "originalUrl": "https://i0.photo.2gis.com/images/branch/10/1407374895241911_96e0.jpg",
+            "author": "Иван Страмилов · 29 сентября 2016 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/70000001006919365",
+        "aliases": [
+          "Музей военной техники",
+          "Выставка военной техники"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-relation-3175505": {
+      "patch": {
+        "name": "Парк Победы",
+        "lat": 55.434127,
+        "lon": 65.31836,
+        "category": "Парк",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001105078137.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001105078137",
+          "originalUrl": "https://i3.photo.2gis.com/images/geo/10/1407374898312488_35e3.jpg",
+          "author": "Анатолий Никитин · 18 декабря 2016 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001105078137",
+          "url": "https://2gis.ru/kurgan/firm/70000001105078137",
+          "checkedAt": "2026-10-06",
+          "name": "Парк Победы",
+          "lat": 55.434127,
+          "lon": 65.31836,
+          "category": "Парк",
+          "rating": 4.9,
+          "reviewCount": 1909,
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001105078137.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001105078137",
+            "originalUrl": "https://i3.photo.2gis.com/images/geo/10/1407374898312488_35e3.jpg",
+            "author": "Анатолий Никитин · 18 декабря 2016 · 2ГИС"
+          }
+        },
+        "aliases": [
+          "Парк Победы"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-relation-2293502": {
+      "patch": {
+        "name": "Детский парк г. Кургана",
+        "lat": 55.434589,
+        "lon": 65.326823,
+        "category": "Парк",
+        "address": "Улица Гоголя, 1, Курган",
+        "phone": "+73522411015",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001076239564.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001076239564",
+          "originalUrl": "https://i0.photo.2gis.com/images/geo/0/30258560075209236_8a99.jpg",
+          "author": "Артём ... · 5 июня 2022 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001076239564",
+          "url": "https://2gis.ru/kurgan/firm/70000001076239564",
+          "checkedAt": "2026-10-06",
+          "name": "Детский парк г. Кургана",
+          "lat": 55.434589,
+          "lon": 65.326823,
+          "category": "Парк",
+          "address": "Улица Гоголя, 1, Курган",
+          "phone": "+73522411015",
+          "rating": 5.0,
+          "reviewCount": 1829,
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001076239564.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001076239564",
+            "originalUrl": "https://i0.photo.2gis.com/images/geo/0/30258560075209236_8a99.jpg",
+            "author": "Артём ... · 5 июня 2022 · 2ГИС"
+          }
+        },
+        "aliases": [
+          "Детский парк",
+          "Детский Парк"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-239715417": {
+      "patch": {
+        "name": "Центральный парк культуры и отдыха им. 50-летия Великого Октября",
+        "lat": 55.430901,
+        "lon": 65.32657,
+        "category": "Парк",
+        "phone": "+79088354545",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001090365041.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001090365041",
+          "originalUrl": "https://i5.photo.2gis.com/photo-gallery/166fb621-9c24-4661-a8ed-0f1b2555a091.jpg",
+          "author": "НВ · Наталья Вахрушева · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001090365041",
+          "url": "https://2gis.ru/kurgan/firm/70000001090365041",
+          "checkedAt": "2026-10-06",
+          "name": "Центральный парк культуры и отдыха им. 50-летия Великого Октября",
+          "lat": 55.430901,
+          "lon": 65.32657,
+          "category": "Парк",
+          "phone": "+79088354545",
+          "rating": 5.0,
+          "reviewCount": 5446,
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001090365041.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001090365041",
+            "originalUrl": "https://i5.photo.2gis.com/photo-gallery/166fb621-9c24-4661-a8ed-0f1b2555a091.jpg",
+            "author": "НВ · Наталья Вахрушева · 2ГИС"
+          }
+        },
+        "aliases": [
+          "ЦПКиО",
+          "Центральный парк культуры и отдыха"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "phone",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-235881388": {
+      "patch": {
+        "name": "Городской сад им. Александра Невского",
+        "lat": 55.439069,
+        "lon": 65.344279,
+        "category": "Парк",
+        "address": "Улица Ленина, 23, Курган",
+        "phone": "+79617503529",
+        "openingHours": "Mo-Su 09:00-18:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164654766.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164654766",
+          "originalUrl": "https://i5.photo.2gis.com/images/geo/10/1407374895958047_1e04.jpg",
+          "author": "Артём Козлов · 17 октября 2016 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164654766",
+          "url": "https://2gis.ru/kurgan/firm/1407903164654766",
+          "checkedAt": "2026-10-06",
+          "name": "Городской сад им. Александра Невского",
+          "lat": 55.439069,
+          "lon": 65.344279,
+          "category": "Парк",
+          "address": "Улица Ленина, 23, Курган",
+          "phone": "+79617503529",
+          "rating": 5.0,
+          "reviewCount": 1901,
+          "openingHours": "Mo-Su 09:00-18:00",
+          "businessStatus": "operational",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164654766.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164654766",
+            "originalUrl": "https://i5.photo.2gis.com/images/geo/10/1407374895958047_1e04.jpg",
+            "author": "Артём Козлов · 17 октября 2016 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164654766",
+        "aliases": [
+          "Городской Сад",
+          "Городской сад"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-1381121659": {
+      "patch": {
+        "name": "Сквер Юбилейный",
+        "lat": 55.43282,
+        "lon": 65.321682,
+        "category": "Парк",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076203004699.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076203004699",
+          "originalUrl": "https://i9.photo.2gis.com/images/geo/0/30258560047131574_8978.jpg",
+          "author": "Фото из 2ГИС · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70030076203004699",
+          "url": "https://2gis.ru/kurgan/geo/70030076203004699",
+          "checkedAt": "2026-10-06",
+          "name": "Сквер Юбилейный",
+          "lat": 55.43282,
+          "lon": 65.321682,
+          "category": "Парк",
+          "rating": 4.9,
+          "reviewCount": 694,
+          "photo": {
+            "url": "/photos/kurgan/2gis/70030076203004699.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076203004699",
+            "originalUrl": "https://i9.photo.2gis.com/images/geo/0/30258560047131574_8978.jpg",
+            "author": "Фото из 2ГИС · 2ГИС"
+          }
+        },
+        "aliases": [
+          "Юбилейный сквер"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "google-0xad770285d1f159d8": {
+      "patch": {
+        "name": "Курган-парк",
+        "lat": 55.459021,
+        "lon": 65.283401,
+        "category": "Парк",
+        "address": "Микрорайон 6а, 25/4, Курган",
+        "phone": "+79823955000",
+        "openingHours": "Mo-Su 09:00-21:00",
+        "hoursNote": "летний период: пн-вс 11:00-23:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001026962850.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001026962850",
+          "originalUrl": "https://i1.photo.2gis.com/photo-gallery/872e2871-e5a7-40cf-a10e-8095cd9c4b98.jpg",
+          "author": "Елена Макеева · 28 мая 2026 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001026962850",
+          "url": "https://2gis.ru/kurgan/firm/70000001026962850",
+          "checkedAt": "2026-10-06",
+          "name": "Курган-парк",
+          "lat": 55.459021,
+          "lon": 65.283401,
+          "category": "Парк",
+          "address": "Микрорайон 6а, 25/4, Курган",
+          "phone": "+79823955000",
+          "rating": 4.9,
+          "reviewCount": 875,
+          "openingHours": "Mo-Su 09:00-21:00",
+          "businessStatus": "operational",
+          "hoursNote": "летний период: пн-вс 11:00-23:00",
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001026962850.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001026962850",
+            "originalUrl": "https://i1.photo.2gis.com/photo-gallery/872e2871-e5a7-40cf-a10e-8095cd9c4b98.jpg",
+            "author": "Елена Макеева · 28 мая 2026 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/70000001026962850",
+        "aliases": [
+          "Ландшафтный парк"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-1120554459": {
+      "patch": {
+        "name": "Сквер Семейный",
+        "lat": 55.431783,
+        "lon": 65.312028,
+        "category": "Парк",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076263094059.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076263094059",
+          "originalUrl": "https://i1.photo.2gis.com/images/geo/0/30258560079247808_7060.jpg",
+          "author": "Артём ... · 30 июля 2022 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70030076263094059",
+          "url": "https://2gis.ru/kurgan/geo/70030076263094059",
+          "checkedAt": "2026-10-06",
+          "name": "Сквер Семейный",
+          "lat": 55.431783,
+          "lon": 65.312028,
+          "category": "Парк",
+          "rating": 4.8,
+          "reviewCount": 270,
+          "photo": {
+            "url": "/photos/kurgan/2gis/70030076263094059.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076263094059",
+            "originalUrl": "https://i1.photo.2gis.com/images/geo/0/30258560079247808_7060.jpg",
+            "author": "Артём ... · 30 июля 2022 · 2ГИС"
+          }
+        },
+        "aliases": [
+          "Семейный сквер"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-114835570": {
+      "patch": {
+        "name": "Храм Порт-Артурской иконы Божией Матери",
+        "lat": 55.455641,
+        "lon": 65.322735,
+        "category": "Храм",
+        "address": "Улица Ястржембского, 41Б, Курган",
+        "website": "https://port-artur-hram.ru",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164666030.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164666030",
+          "originalUrl": "https://i7.photo.2gis.com/photo-gallery/e77afad8-1063-44ec-a28f-9c9f7e4b8b0c.jpg",
+          "author": "Mira Mira · 17 августа 2025 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164666030",
+          "url": "https://2gis.ru/kurgan/firm/1407903164666030",
+          "checkedAt": "2026-10-06",
+          "name": "Храм Порт-Артурской иконы Божией Матери",
+          "lat": 55.455641,
+          "lon": 65.322735,
+          "category": "Храм",
+          "address": "Улица Ястржембского, 41Б, Курган",
+          "website": "https://port-artur-hram.ru",
+          "rating": 4.5,
+          "reviewCount": 58,
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164666030.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164666030",
+            "originalUrl": "https://i7.photo.2gis.com/photo-gallery/e77afad8-1063-44ec-a28f-9c9f7e4b8b0c.jpg",
+            "author": "Mira Mira · 17 августа 2025 · 2ГИС"
+          }
+        },
+        "aliases": [
+          "Храм Порт-Артурской иконы Божьей Матери",
+          "Храм в честь Божией Матери \"Порт Артурская\""
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "website",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-452637088": {
+      "patch": {
+        "name": "Богоявленский собор",
+        "lat": 55.429013,
+        "lon": 65.340761,
+        "category": "Храм",
+        "address": "Улица Климова, 3, Курган",
+        "website": "https://kurganvera.ru",
+        "openingHours": "Mo-Su 07:30-18:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001017298355.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001017298355",
+          "originalUrl": "https://i5.photo.2gis.com/images/branch/10/1407374928715131_21f5.jpg",
+          "author": "Julia Kivi · 24 сентября 2019 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "70000001017298355",
+          "url": "https://2gis.ru/kurgan/firm/70000001017298355",
+          "checkedAt": "2026-10-06",
+          "name": "Богоявленский собор",
+          "lat": 55.429013,
+          "lon": 65.340761,
+          "category": "Храм",
+          "address": "Улица Климова, 3, Курган",
+          "website": "https://kurganvera.ru",
+          "rating": 4.5,
+          "reviewCount": 214,
+          "openingHours": "Mo-Su 07:30-18:00",
+          "businessStatus": "operational",
+          "photo": {
+            "url": "/photos/kurgan/2gis/70000001017298355.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001017298355",
+            "originalUrl": "https://i5.photo.2gis.com/images/branch/10/1407374928715131_21f5.jpg",
+            "author": "Julia Kivi · 24 сентября 2019 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/70000001017298355",
+        "aliases": [
+          "Богоявленский кафедральный собор"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-103318434": {
+      "patch": {
+        "name": "Свято-Духовский храм",
+        "lat": 55.428619,
+        "lon": 65.394451,
+        "category": "Храм",
+        "address": "Малый переулок, 12, Курган",
+        "website": "https://kurganvera.ru",
+        "openingHours": "Mo-Su 08:00-17:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407903164587542.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164587542",
+          "originalUrl": "https://i8.photo.2gis.com/images/branch/0/30258560135692941_ab31.jpg",
+          "author": "Фотография с сайта компании · 21 октября 2023 · 2ГИС"
+        },
+        "twoGis": {
+          "id": "1407903164587542",
+          "url": "https://2gis.ru/kurgan/firm/1407903164587542",
+          "checkedAt": "2026-10-06",
+          "name": "Свято-Духовский храм",
+          "lat": 55.428619,
+          "lon": 65.394451,
+          "category": "Храм",
+          "address": "Малый переулок, 12, Курган",
+          "website": "https://kurganvera.ru",
+          "rating": 3.6,
+          "reviewCount": 23,
+          "openingHours": "Mo-Su 08:00-17:00",
+          "businessStatus": "operational",
+          "photo": {
+            "url": "/photos/kurgan/2gis/1407903164587542.jpg",
+            "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407903164587542",
+            "originalUrl": "https://i8.photo.2gis.com/images/branch/0/30258560135692941_ab31.jpg",
+            "author": "Фотография с сайта компании · 21 октября 2023 · 2ГИС"
+          }
+        },
+        "hoursSource": "https://2gis.ru/kurgan/firm/1407903164587542",
+        "aliases": [
+          "Церковь Сошествия Святого Духа",
+          "Свято-Духовский храм"
+        ]
+      },
+      "removeFields": [
+        "businessStatus",
+        "businessStatusSource"
+      ],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    },
+    "osm-way-236042654": {
+      "patch": {
+        "name": "Вечный огонь",
+        "lat": 55.440219,
+        "lon": 65.33789,
+        "category": "Памятник",
+        "twoGis": {
+          "id": "70030077157986344",
+          "url": "https://2gis.ru/kurgan/geo/70030077157986344",
+          "checkedAt": "2026-10-06",
+          "name": "Вечный огонь",
+          "lat": 55.440219,
+          "lon": 65.33789,
+          "category": "Памятник",
+          "rating": 5.0,
+          "reviewCount": 3
+        },
+        "aliases": [
+          "Вечный Огонь",
+          "Вечный огонь"
+        ]
+      },
+      "removeFields": [],
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount"
+      ],
+      "reason": "Identity reviewed against name, address and route coordinates; 2GIS takes precedence for Kurgan"
+    }
+  },
+  "places": [
+    {
+      "id": "2gis-70000001024175863",
+      "name": "Музей книги",
+      "lat": 55.437891,
+      "lon": 65.345993,
+      "category": "Музей",
+      "address": "Комсомольская улица, 30, Курган",
+      "phone": "+73522465348",
+      "website": "https://yugovalib.ru/site/category/104",
+      "openingHours": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 10:00-16:00; Sa 10:00-16:00; Su off",
+      "hoursNote": "санитарный день: последний вт месяца",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001024175863.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024175863",
+        "originalUrl": "https://i0.photo.2gis.com/images/branch/0/30258560079565535_7a2b.jpg",
+        "author": "Би · Библиотека им. А. К. Югова /Курган · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001024175863",
+        "url": "https://2gis.ru/kurgan/firm/70000001024175863",
+        "checkedAt": "2026-10-06",
+        "name": "Музей книги",
+        "lat": 55.437891,
+        "lon": 65.345993,
+        "category": "Музей",
+        "address": "Комсомольская улица, 30, Курган",
+        "phone": "+73522465348",
+        "website": "https://yugovalib.ru/site/category/104",
+        "rating": 5.0,
+        "reviewCount": 60,
+        "openingHours": "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 10:00-16:00; Sa 10:00-16:00; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "санитарный день: последний вт месяца",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001024175863.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024175863",
+          "originalUrl": "https://i0.photo.2gis.com/images/branch/0/30258560079565535_7a2b.jpg",
+          "author": "Би · Библиотека им. А. К. Югова /Курган · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001024175863",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001035164235",
+      "name": "Сделано в СССР",
+      "lat": 55.434794,
+      "lon": 65.349739,
+      "category": "Музей",
+      "address": "Улица Куйбышева, 58, Курган",
+      "phone": "+79068283628",
+      "openingHours": "Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 09:00-17:00; Su off",
+      "hoursNote": "экскурсии по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001035164235.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001035164235",
+        "originalUrl": "https://i1.photo.2gis.com/images/branch/0/30258560105468114_f5de.jpg",
+        "author": "Света Печёнкина · 12 мая 2023 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001035164235",
+        "url": "https://2gis.ru/kurgan/firm/70000001035164235",
+        "checkedAt": "2026-10-06",
+        "name": "Сделано в СССР",
+        "lat": 55.434794,
+        "lon": 65.349739,
+        "category": "Музей",
+        "address": "Улица Куйбышева, 58, Курган",
+        "phone": "+79068283628",
+        "rating": 5.0,
+        "reviewCount": 20,
+        "openingHours": "Mo 10:00-18:00; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 09:00-17:00; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "экскурсии по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001035164235.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001035164235",
+          "originalUrl": "https://i1.photo.2gis.com/images/branch/0/30258560105468114_f5de.jpg",
+          "author": "Света Печёнкина · 12 мая 2023 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001035164235",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001027756922",
+      "name": "Время",
+      "lat": 55.433878,
+      "lon": 65.3439,
+      "category": "Музей",
+      "address": "Советская улица, 60, Курган",
+      "phone": "+79068283259",
+      "website": "https://vk.link/clubmuzeivremia",
+      "openingHours": "Mo-Su 09:00-20:00",
+      "hoursNote": "по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001027756922.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001027756922",
+        "originalUrl": "https://i7.photo.2gis.com/images/branch/0/30258560062786758_4e6b.jpg",
+        "author": "Фотография от владельца · 25 августа 2021 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001027756922",
+        "url": "https://2gis.ru/kurgan/firm/70000001027756922",
+        "checkedAt": "2026-10-06",
+        "name": "Время",
+        "lat": 55.433878,
+        "lon": 65.3439,
+        "category": "Музей",
+        "address": "Советская улица, 60, Курган",
+        "phone": "+79068283259",
+        "website": "https://vk.link/clubmuzeivremia",
+        "rating": 5.0,
+        "reviewCount": 3,
+        "openingHours": "Mo-Su 09:00-20:00",
+        "businessStatus": "operational",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001027756922.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001027756922",
+          "originalUrl": "https://i7.photo.2gis.com/images/branch/0/30258560062786758_4e6b.jpg",
+          "author": "Фотография от владельца · 25 августа 2021 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001027756922",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001024176580",
+      "name": "Музей истории Южно-Уральской железной дороги",
+      "lat": 55.439591,
+      "lon": 65.325674,
+      "category": "Музей",
+      "address": "Улица Красина, 82, Курган",
+      "openingHours": "Mo 09:00-12:00; Tu 09:00-12:00; We 09:00-12:00; Th 09:00-12:00; Fr off; Sa off; Su off",
+      "hoursNote": "по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001024176580.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024176580",
+        "originalUrl": "https://i6.photo.2gis.com/images/geo/0/30258560051441149_816e.jpg",
+        "author": "Надя Михайлова · 13 сентября 2020 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001024176580",
+        "url": "https://2gis.ru/kurgan/firm/70000001024176580",
+        "checkedAt": "2026-10-06",
+        "name": "Музей истории",
+        "lat": 55.439591,
+        "lon": 65.325674,
+        "category": "Музей",
+        "address": "Улица Красина, 82, Курган",
+        "rating": 4.9,
+        "reviewCount": 86,
+        "openingHours": "Mo 09:00-12:00; Tu 09:00-12:00; We 09:00-12:00; Th 09:00-12:00; Fr off; Sa off; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001024176580.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024176580",
+          "originalUrl": "https://i6.photo.2gis.com/images/geo/0/30258560051441149_816e.jpg",
+          "author": "Надя Михайлова · 13 сентября 2020 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001024176580",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001069928961",
+      "name": "Музей истории больницы",
+      "lat": 55.433899,
+      "lon": 65.337209,
+      "category": "Музей",
+      "address": "Улица Кирова, 65 к4, Курган",
+      "phone": "+73522465605,,,217",
+      "openingHours": "Mo 08:00-12:00,13:00-17:00; Tu 08:00-12:00,13:00-17:00; We 08:00-12:00,13:00-17:00; Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-17:00; Sa off; Su off",
+      "hoursNote": "по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001069928961.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001069928961",
+        "originalUrl": "https://i7.photo.2gis.com/images/geo/10/1407374931913644_202c.jpg",
+        "author": "Илья Курбатов · 8 января 2020 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001069928961",
+        "url": "https://2gis.ru/kurgan/firm/70000001069928961",
+        "checkedAt": "2026-10-06",
+        "name": "Музей истории больницы",
+        "lat": 55.433899,
+        "lon": 65.337209,
+        "category": "Музей",
+        "address": "Улица Кирова, 65 к4, Курган",
+        "phone": "+73522465605,,,217",
+        "rating": 4.5,
+        "reviewCount": 32,
+        "openingHours": "Mo 08:00-12:00,13:00-17:00; Tu 08:00-12:00,13:00-17:00; We 08:00-12:00,13:00-17:00; Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-17:00; Sa off; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001069928961.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001069928961",
+          "originalUrl": "https://i7.photo.2gis.com/images/geo/10/1407374931913644_202c.jpg",
+          "author": "Илья Курбатов · 8 января 2020 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001069928961",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-1407904164885391",
+      "name": "Центр противопожарной пропаганды",
+      "lat": 55.445749,
+      "lon": 65.388206,
+      "category": "Музей",
+      "address": "Улица Куйбышева, 191, Курган",
+      "phone": "+73522476430",
+      "website": "https://45.mchs.gov.ru",
+      "openingHours": "Mo 08:30-12:30,13:20-17:30; Tu 08:30-12:30,13:20-17:30; We 08:30-12:30,13:20-17:30; Th 08:30-12:30,13:20-17:30; Fr 08:30-12:30,13:20-16:45; Sa off; Su off",
+      "hoursNote": "по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/1407904164885391.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407904164885391",
+        "originalUrl": "https://i9.photo.2gis.com/images/branch/10/1407374895850119_be2d.jpg",
+        "author": "Иван Страмилов · 14 октября 2016 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "1407904164885391",
+        "url": "https://2gis.ru/kurgan/firm/1407904164885391",
+        "checkedAt": "2026-10-06",
+        "name": "Центр противопожарной пропаганды",
+        "lat": 55.445749,
+        "lon": 65.388206,
+        "category": "Музей",
+        "address": "Улица Куйбышева, 191, Курган",
+        "phone": "+73522476430",
+        "website": "https://45.mchs.gov.ru",
+        "rating": 5.0,
+        "reviewCount": 13,
+        "openingHours": "Mo 08:30-12:30,13:20-17:30; Tu 08:30-12:30,13:20-17:30; We 08:30-12:30,13:20-17:30; Th 08:30-12:30,13:20-17:30; Fr 08:30-12:30,13:20-16:45; Sa off; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/1407904164885391.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/1407904164885391",
+          "originalUrl": "https://i9.photo.2gis.com/images/branch/10/1407374895850119_be2d.jpg",
+          "author": "Иван Страмилов · 14 октября 2016 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/1407904164885391",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001084099698",
+      "name": "Музей музеев",
+      "lat": 55.435835,
+      "lon": 65.33276,
+      "category": "Музей",
+      "address": "Улица Гоголя, 30, Курган",
+      "phone": "+73522465866",
+      "openingHours": "Mo 10:00-13:00,14:00-18:00; Tu 10:00-13:00,14:00-18:00; We 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00,14:00-18:00; Su 10:00-13:00,14:00-18:00",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001084099698.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001084099698",
+        "originalUrl": "https://i1.photo.2gis.com/images/branch/0/30258560172434831_c6b2.jpg",
+        "author": "Фото из 2ГИС · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001084099698",
+        "url": "https://2gis.ru/kurgan/firm/70000001084099698",
+        "checkedAt": "2026-10-06",
+        "name": "Музей музеев",
+        "lat": 55.435835,
+        "lon": 65.33276,
+        "category": "Музей",
+        "address": "Улица Гоголя, 30, Курган",
+        "phone": "+73522465866",
+        "openingHours": "Mo 10:00-13:00,14:00-18:00; Tu 10:00-13:00,14:00-18:00; We 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00,14:00-18:00; Su 10:00-13:00,14:00-18:00",
+        "businessStatus": "operational",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001084099698.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001084099698",
+          "originalUrl": "https://i1.photo.2gis.com/images/branch/0/30258560172434831_c6b2.jpg",
+          "author": "Фото из 2ГИС · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001084099698",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001097363989",
+      "name": "Музей профсоюзов Зауралья",
+      "lat": 55.436055,
+      "lon": 65.330901,
+      "category": "Музей",
+      "address": "Улица Красина, 53, Курган",
+      "phone": "+73522455161",
+      "website": "https://fpko45.ru",
+      "openingHours": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa off; Su off",
+      "hoursNote": "по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001097363989.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001097363989",
+        "originalUrl": "https://i5.photo.2gis.com/photo-gallery/5dabf25c-15c3-44ce-aba5-3fbbded344bf.jpg",
+        "author": "Фотография от 2ГИС · 27 января 2025 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001097363989",
+        "url": "https://2gis.ru/kurgan/firm/70000001097363989",
+        "checkedAt": "2026-10-06",
+        "name": "Музей профсоюзов Зауралья",
+        "lat": 55.436055,
+        "lon": 65.330901,
+        "category": "Музей",
+        "address": "Улица Красина, 53, Курган",
+        "phone": "+73522455161",
+        "website": "https://fpko45.ru",
+        "openingHours": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa off; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001097363989.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001097363989",
+          "originalUrl": "https://i5.photo.2gis.com/photo-gallery/5dabf25c-15c3-44ce-aba5-3fbbded344bf.jpg",
+          "author": "Фотография от 2ГИС · 27 января 2025 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001097363989",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001024714127",
+      "name": "Литературно-краеведческий музей им. Сергея Васильева",
+      "lat": 55.435799,
+      "lon": 65.321915,
+      "category": "Музей",
+      "address": "Улица Сергея Васильева, 7, Курган",
+      "phone": "+73522428636,,,206",
+      "website": "https://museum29.ucoz.ru",
+      "openingHours": "Mo 07:30-18:00; Tu 07:30-18:00; We 07:30-18:00; Th 07:30-18:00; Fr 07:30-18:00; Sa 08:00-13:00; Su off",
+      "hoursNote": "по предварительной записи",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001024714127.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024714127",
+        "originalUrl": "https://i6.photo.2gis.com/images/branch/10/1407374895295980_13fc.jpg",
+        "author": "Иван Страмилов · 30 сентября 2016 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001024714127",
+        "url": "https://2gis.ru/kurgan/firm/70000001024714127",
+        "checkedAt": "2026-10-06",
+        "name": "Литературно-краеведческий музей им. Сергея Васильева",
+        "lat": 55.435799,
+        "lon": 65.321915,
+        "category": "Музей",
+        "address": "Улица Сергея Васильева, 7, Курган",
+        "phone": "+73522428636,,,206",
+        "website": "https://museum29.ucoz.ru",
+        "openingHours": "Mo 07:30-18:00; Tu 07:30-18:00; We 07:30-18:00; Th 07:30-18:00; Fr 07:30-18:00; Sa 08:00-13:00; Su off",
+        "businessStatus": "operational",
+        "hoursNote": "по предварительной записи",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001024714127.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001024714127",
+          "originalUrl": "https://i6.photo.2gis.com/images/branch/10/1407374895295980_13fc.jpg",
+          "author": "Иван Страмилов · 30 сентября 2016 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001024714127",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "website",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70030076210212451",
+      "name": "Сквер-фонтан",
+      "lat": 55.437462,
+      "lon": 65.321689,
+      "category": "Парк",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70030076210212451.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076210212451",
+        "originalUrl": "https://i0.photo.2gis.com/images/geo/0/30258560059192109_00e8.jpg",
+        "author": "ТС · Татьяна Саломатина · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70030076210212451",
+        "url": "https://2gis.ru/kurgan/geo/70030076210212451",
+        "checkedAt": "2026-10-06",
+        "name": "Сквер-фонтан",
+        "lat": 55.437462,
+        "lon": 65.321689,
+        "category": "Парк",
+        "rating": 4.8,
+        "reviewCount": 643,
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076210212451.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076210212451",
+          "originalUrl": "https://i0.photo.2gis.com/images/geo/0/30258560059192109_00e8.jpg",
+          "author": "ТС · Татьяна Саломатина · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-1408062078320663",
+      "name": "Бошняковский сквер",
+      "lat": 55.439573,
+      "lon": 65.326221,
+      "category": "Парк",
+      "photo": {
+        "url": "/photos/kurgan/2gis/1408062078320663.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/1408062078320663",
+        "originalUrl": "https://i9.photo.2gis.com/images/geo/0/30258560056361467_4d28.jpg",
+        "author": "II · Ivan Ivanov · 2ГИС"
+      },
+      "twoGis": {
+        "id": "1408062078320663",
+        "url": "https://2gis.ru/kurgan/geo/1408062078320663",
+        "checkedAt": "2026-10-06",
+        "name": "Бошняковский сквер",
+        "lat": 55.439573,
+        "lon": 65.326221,
+        "category": "Парк",
+        "rating": 4.8,
+        "reviewCount": 439,
+        "photo": {
+          "url": "/photos/kurgan/2gis/1408062078320663.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/1408062078320663",
+          "originalUrl": "https://i9.photo.2gis.com/images/geo/0/30258560056361467_4d28.jpg",
+          "author": "II · Ivan Ivanov · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70030076126060571",
+      "name": "Стадион-парк Энергетик",
+      "lat": 55.429913,
+      "lon": 65.315215,
+      "category": "Парк",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70030076126060571.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076126060571",
+        "originalUrl": "https://i0.photo.2gis.com/photo-gallery/32f8bbac-f174-4834-8139-fc2fd20a73e1.jpg",
+        "author": "Е · Елена · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70030076126060571",
+        "url": "https://2gis.ru/kurgan/geo/70030076126060571",
+        "checkedAt": "2026-10-06",
+        "name": "Стадион-парк Энергетик",
+        "lat": 55.429913,
+        "lon": 65.315215,
+        "category": "Парк",
+        "rating": 4.8,
+        "reviewCount": 602,
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076126060571.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076126060571",
+          "originalUrl": "https://i0.photo.2gis.com/photo-gallery/32f8bbac-f174-4834-8139-fc2fd20a73e1.jpg",
+          "author": "Е · Елена · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001113097791",
+      "name": "Натурпарк",
+      "lat": 55.50563,
+      "lon": 65.323814,
+      "category": "Парк",
+      "address": "Улица Цвиллинга, 1г, Курган",
+      "phone": "+73522241725",
+      "openingHours": "Mo-Su 10:00-19:00",
+      "hoursNote": "санитарный день: последний пн месяца; зимний период: пн-вс 10:00-16:00",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001113097791.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001113097791",
+        "originalUrl": "https://i0.photo.2gis.com/photo-gallery/c8a6ca0d-e6f8-4377-a372-f721a15b0261.jpg",
+        "author": "Мария Севастьянова · 14 июня 2026 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001113097791",
+        "url": "https://2gis.ru/kurgan/firm/70000001113097791",
+        "checkedAt": "2026-10-06",
+        "name": "Натурпарк",
+        "lat": 55.50563,
+        "lon": 65.323814,
+        "category": "Парк",
+        "address": "Улица Цвиллинга, 1г, Курган",
+        "phone": "+73522241725",
+        "rating": 4.3,
+        "reviewCount": 83,
+        "openingHours": "Mo-Su 10:00-19:00",
+        "businessStatus": "operational",
+        "hoursNote": "санитарный день: последний пн месяца; зимний период: пн-вс 10:00-16:00",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001113097791.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001113097791",
+          "originalUrl": "https://i0.photo.2gis.com/photo-gallery/c8a6ca0d-e6f8-4377-a372-f721a15b0261.jpg",
+          "author": "Мария Севастьянова · 14 июня 2026 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001113097791",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "phone",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "hoursNote",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70000001054532860",
+      "name": "Свято-Троицкий собор",
+      "lat": 55.435108,
+      "lon": 65.355325,
+      "category": "Храм",
+      "address": "Троицкая площадь, 1/1, Курган",
+      "openingHours": "Mo-Su 08:00-18:00",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70000001054532860.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001054532860",
+        "originalUrl": "https://i5.photo.2gis.com/photo-gallery/fe2aec88-3b4c-4be5-a8cb-ca11790717dc.jpg",
+        "author": "Юрий Александрович · 17 августа 2026 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70000001054532860",
+        "url": "https://2gis.ru/kurgan/firm/70000001054532860",
+        "checkedAt": "2026-10-06",
+        "name": "Свято-Троицкий собор",
+        "lat": 55.435108,
+        "lon": 65.355325,
+        "category": "Храм",
+        "address": "Троицкая площадь, 1/1, Курган",
+        "rating": 4.2,
+        "reviewCount": 172,
+        "openingHours": "Mo-Su 08:00-18:00",
+        "businessStatus": "operational",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70000001054532860.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/firm/70000001054532860",
+          "originalUrl": "https://i5.photo.2gis.com/photo-gallery/fe2aec88-3b4c-4be5-a8cb-ca11790717dc.jpg",
+          "author": "Юрий Александрович · 17 августа 2026 · 2ГИС"
+        }
+      },
+      "hoursSource": "https://2gis.ru/kurgan/firm/70000001054532860",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "address",
+        "rating",
+        "reviewCount",
+        "openingHours",
+        "businessStatus",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70030076201933360",
+      "name": "Арт-объект Звезда",
+      "lat": 55.445015,
+      "lon": 65.384677,
+      "category": "Памятник",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70030076201933360.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076201933360",
+        "originalUrl": "https://i7.photo.2gis.com/photo-gallery/680df16c-2f78-43d8-a2fa-342605e59d2e.jpg",
+        "author": "Андрей Kurgan · 1 июня 2024 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70030076201933360",
+        "url": "https://2gis.ru/kurgan/geo/70030076201933360",
+        "checkedAt": "2026-10-06",
+        "name": "Арт-объект Звезда",
+        "lat": 55.445015,
+        "lon": 65.384677,
+        "category": "Памятник",
+        "rating": 4.0,
+        "reviewCount": 1,
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076201933360.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076201933360",
+          "originalUrl": "https://i7.photo.2gis.com/photo-gallery/680df16c-2f78-43d8-a2fa-342605e59d2e.jpg",
+          "author": "Андрей Kurgan · 1 июня 2024 · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70030076295127180",
+      "name": "Арт-объект Орёл",
+      "lat": 55.434475,
+      "lon": 65.354597,
+      "category": "Памятник",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70030076295127180.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076295127180",
+        "originalUrl": "https://i7.photo.2gis.com/images/geo/0/30258560073970187_7e2f.jpg",
+        "author": "Anna Borodina · 13 мая 2022 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70030076295127180",
+        "url": "https://2gis.ru/kurgan/geo/70030076295127180",
+        "checkedAt": "2026-10-06",
+        "name": "Арт-объект Орёл",
+        "lat": 55.434475,
+        "lon": 65.354597,
+        "category": "Памятник",
+        "rating": 4.7,
+        "reviewCount": 12,
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076295127180.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076295127180",
+          "originalUrl": "https://i7.photo.2gis.com/images/geo/0/30258560073970187_7e2f.jpg",
+          "author": "Anna Borodina · 13 мая 2022 · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70030077179700122",
+      "name": "Скульптура Мальчик с собакой",
+      "lat": 55.432524,
+      "lon": 65.40273,
+      "category": "Памятник",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70030077179700122.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030077179700122",
+        "originalUrl": "https://i0.photo.2gis.com/photo-gallery/e0b46678-526d-4905-b55a-85d52c72aa78.jpg",
+        "author": "Фото из 2ГИС · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70030077179700122",
+        "url": "https://2gis.ru/kurgan/geo/70030077179700122",
+        "checkedAt": "2026-10-06",
+        "name": "Скульптура Мальчик с собакой",
+        "lat": 55.432524,
+        "lon": 65.40273,
+        "category": "Памятник",
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030077179700122.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030077179700122",
+          "originalUrl": "https://i0.photo.2gis.com/photo-gallery/e0b46678-526d-4905-b55a-85d52c72aa78.jpg",
+          "author": "Фото из 2ГИС · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-1408070668255298",
+      "name": "Мемориал погибшим в боях кургансельмашевцам",
+      "lat": 55.445043,
+      "lon": 65.38457,
+      "category": "Памятник",
+      "photo": {
+        "url": "/photos/kurgan/2gis/1408070668255298.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/1408070668255298",
+        "originalUrl": "https://i5.photo.2gis.com/photo-gallery/0fc8b915-4f98-451e-803b-12ea37ac3108.jpg",
+        "author": "KARA ... · 2 августа 2026 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "1408070668255298",
+        "url": "https://2gis.ru/kurgan/geo/1408070668255298",
+        "checkedAt": "2026-10-06",
+        "name": "Мемориал погибшим в боях кургансельмашевцам",
+        "lat": 55.445043,
+        "lon": 65.38457,
+        "category": "Памятник",
+        "rating": 5.0,
+        "reviewCount": 1,
+        "photo": {
+          "url": "/photos/kurgan/2gis/1408070668255298.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/1408070668255298",
+          "originalUrl": "https://i5.photo.2gis.com/photo-gallery/0fc8b915-4f98-451e-803b-12ea37ac3108.jpg",
+          "author": "KARA ... · 2 августа 2026 · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-1408070668255327",
+      "name": "Памятник Д.И. Смолину",
+      "lat": 55.445312,
+      "lon": 65.375785,
+      "category": "Памятник",
+      "photo": {
+        "url": "/photos/kurgan/2gis/1408070668255327.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/1408070668255327",
+        "originalUrl": "https://i1.photo.2gis.com/images/geo/0/30258560074652405_60f5.jpg",
+        "author": "Anna Borodina · 26 мая 2022 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "1408070668255327",
+        "url": "https://2gis.ru/kurgan/geo/1408070668255327",
+        "checkedAt": "2026-10-06",
+        "name": "Памятник Д.И. Смолину",
+        "lat": 55.445312,
+        "lon": 65.375785,
+        "category": "Памятник",
+        "rating": 1.0,
+        "reviewCount": 1,
+        "photo": {
+          "url": "/photos/kurgan/2gis/1408070668255327.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/1408070668255327",
+          "originalUrl": "https://i1.photo.2gis.com/images/geo/0/30258560074652405_60f5.jpg",
+          "author": "Anna Borodina · 26 мая 2022 · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    },
+    {
+      "id": "2gis-70030076194477816",
+      "name": "Арт-объект Фигуристка и Хоккеист",
+      "lat": 55.44008,
+      "lon": 65.363522,
+      "category": "Памятник",
+      "photo": {
+        "url": "/photos/kurgan/2gis/70030076194477816.jpg",
+        "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076194477816",
+        "originalUrl": "https://i4.photo.2gis.com/images/geo/0/30258560117504608_5792.jpg",
+        "author": "Андрей Kurgan · 12 сентября 2023 · 2ГИС"
+      },
+      "twoGis": {
+        "id": "70030076194477816",
+        "url": "https://2gis.ru/kurgan/geo/70030076194477816",
+        "checkedAt": "2026-10-06",
+        "name": "Арт-объект Фигуристка и Хоккеист",
+        "lat": 55.44008,
+        "lon": 65.363522,
+        "category": "Памятник",
+        "rating": 4.9,
+        "reviewCount": 2,
+        "photo": {
+          "url": "/photos/kurgan/2gis/70030076194477816.jpg",
+          "sourceUrl": "https://2gis.ru/kurgan/gallery/geo/70030076194477816",
+          "originalUrl": "https://i4.photo.2gis.com/images/geo/0/30258560117504608_5792.jpg",
+          "author": "Андрей Kurgan · 12 сентября 2023 · 2ГИС"
+        }
+      },
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-06",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "category",
+        "rating",
+        "reviewCount",
+        "photo"
+      ],
+      "dataSource": "2ГИС",
+      "dataUpdatedAt": "2026-10-06"
+    }
+  ]
+}

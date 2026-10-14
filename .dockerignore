@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.openai
+.env
+.env.*
+work
+outputs
+backups
+public/photos
+docs/*.tmp-*
+*.tsbuildinfo

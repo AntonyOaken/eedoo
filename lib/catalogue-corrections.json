@@ -1,0 +1,42 @@
+{
+  "isaac": {
+    "patch": {
+      "fee": "yes",
+      "website": "https://cathedral.ru",
+      "hoursSource": "https://www.cathedral.ru/ru/visitors/time",
+      "priceSource": "https://www.cathedral.ru/ru/prices_2026",
+      "openingHours": "10:00–18:00; среда — выходной",
+      "charge": "Собор — 550 ₽; колоннада — 600 ₽"
+    },
+    "checkedAt": "2026-10-05",
+    "verifiedFields": [
+      "openingHours",
+      "charge"
+    ],
+    "reason": "Сведения официального сайта, перенесены из прежнего каталога."
+  },
+  "saviour": {
+    "patch": {
+      "fee": "yes",
+      "website": "https://cathedral.ru",
+      "hoursSource": "https://www.cathedral.ru/ru/visitors/time",
+      "priceSource": "https://www.cathedral.ru/ru/prices_2026",
+      "openingHours": "10:00–18:00; среда — выходной",
+      "charge": "Взрослый билет — 550 ₽"
+    },
+    "checkedAt": "2026-10-05",
+    "verifiedFields": [
+      "openingHours",
+      "charge"
+    ],
+    "reason": "Сведения официального сайта, перенесены из прежнего каталога."
+  },
+  "hermitage": {
+    "patch": {
+      "website": "https://www.hermitagemuseum.org",
+      "priceSource": "https://www.hermitagemuseum.org/tickets",
+      "fee": "yes"
+    },
+    "reason": "Ссылки официального сайта, перенесены из прежнего каталога."
+  }
+}

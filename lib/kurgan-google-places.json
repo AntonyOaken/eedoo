@@ -1,0 +1,2911 @@
+{
+  "updatedAt": "2026-10-05",
+  "corrections": {
+    "osm-way-82200885": {
+      "patch": {
+        "name": "Курганский областной художественный музей",
+        "lat": 55.4408443,
+        "lon": 65.3540073,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/@55.4408443,65.351427,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x49ea25dc45c6bb90!8m2!3d55.4408443!4d65.3540073!16s%2Fg%2F1229qp4j?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Максима Горького, 129, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 246-55-63",
+        "website": "https://xn--j1aef2a.xn--p1ai/",
+        "googleRating": 4.4,
+        "googleReviewCount": 199,
+        "openingHours": "Mo off; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 10:00-18:00; Su 10:00-18:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/@55.4408443,65.351427,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x49ea25dc45c6bb90!8m2!3d55.4408443!4d65.3540073!16s%2Fg%2F1229qp4j?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "category": "Музей",
+        "aliases": [
+          "Художественный музей"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72877704": {
+      "patch": {
+        "name": "Дом-музей декабристов",
+        "lat": 55.4345765,
+        "lon": 65.3533596,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2/@55.4345765,65.3507793,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x5e153a421ff40fc2!8m2!3d55.4345765!4d65.3533596!16s%2Fg%2F1hd_5h940?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "областной краеведческий музей, ул. Климова, 80А, Курган, Курганская обл., Россия, 640018",
+        "phone": "+7 352 246-06-83",
+        "website": "https://gukokm.narod.ru/",
+        "googleRating": 4.7,
+        "googleReviewCount": 104,
+        "openingHours": "Mo off; Tu 10:00-18:00; We 10:00-18:00; Th 10:00-18:00; Fr 10:00-18:00; Sa 10:00-18:00; Su off",
+        "hoursSource": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2/@55.4345765,65.3507793,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x5e153a421ff40fc2!8m2!3d55.4345765!4d65.3533596!16s%2Fg%2F1hd_5h940?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "category": "Музей",
+        "aliases": [
+          "Дом-музей декабристов"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80619716": {
+      "patch": {
+        "name": "Музей истории города",
+        "lat": 55.4347816,
+        "lon": 65.3486299,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/@55.434576,65.3430277,15z/data=!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xd783fd384dfbf5d2!8m2!3d55.4347816!4d65.3486299!16s%2Fg%2F1hf3ltdb2?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 59, Курган, Курганская обл., Россия, 640002",
+        "phone": "+7 352 246-16-27",
+        "website": "https://museum.ru/M3243",
+        "googleRating": 4.8,
+        "googleReviewCount": 22,
+        "openingHours": "Mo off; Tu 10:00-13:00,14:00-18:00; We 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00,14:00-18:00; Su off",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/@55.434576,65.3430277,15z/data=!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xd783fd384dfbf5d2!8m2!3d55.4347816!4d65.3486299!16s%2Fg%2F1hf3ltdb2?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "category": "Музей",
+        "aliases": [
+          "Музей истории города Курган"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-9866624961": {
+      "patch": {
+        "name": "Выставка военной техники",
+        "lat": 55.4558662,
+        "lon": 65.3230572,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0+%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8/@55.4558662,65.3204769,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb745edd2bd:0x1eb5e3960edfccd!8m2!3d55.4558662!4d65.3230572!16s%2Fg%2F11g8cw9f9f?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Ястржембского, 39-41, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.6,
+        "googleReviewCount": 7,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Музей военной техники"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-120123199": {
+      "patch": {
+        "name": "Кафедральный собор святого Александра Невского",
+        "lat": 55.438918,
+        "lon": 65.342613,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0+%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE/@55.438918,65.3400327,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xbda68ecfa8e79be5!8m2!3d55.438918!4d65.342613!16s%2Fg%2F11b41c9xy?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Володарского, 42, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 246-17-64",
+        "website": "https://kurganvera.ru/",
+        "googleRating": 4.7,
+        "googleReviewCount": 28,
+        "aliases": [
+          "Собор Александра Невского"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-101946297": {
+      "patch": {
+        "name": "Богоявленский храм",
+        "lat": 55.4311873,
+        "lon": 65.3113102,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D1%80%D0%B0%D0%BC/@55.4311873,65.2752613,14z/data=!4m10!1m2!2m1!1z0JHQvtCz0L7Rj9Cy0LvQtdC90YHQutC40Lkg0KXRgNCw0Lwg0JrRg9GA0LPQsNC9!3m6!1s0x43b7bc2f63e638ad:0x18b9f06a195fa94c!8m2!3d55.4311873!4d65.3113102!15sCjDQkdC-0LPQvtGP0LLQu9C10L3RgdC60LjQuSDQpdGA0LDQvCDQmtGD0YDQs9Cw0L2SARBjaHJpc3RpYW5fY2h1cmNo4AEA!16s%2Fg%2F11xy8y_w8?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Пушкина, 2А, Курган, Курганская обл., Россия, 640021",
+        "website": "https://bogoyavlensky.narod.ru/",
+        "googleRating": 4.6,
+        "googleReviewCount": 13,
+        "openingHours": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 08:00-18:00; Su 08:00-18:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D1%80%D0%B0%D0%BC/@55.4311873,65.2752613,14z/data=!4m10!1m2!2m1!1z0JHQvtCz0L7Rj9Cy0LvQtdC90YHQutC40Lkg0KXRgNCw0Lwg0JrRg9GA0LPQsNC9!3m6!1s0x43b7bc2f63e638ad:0x18b9f06a195fa94c!8m2!3d55.4311873!4d65.3113102!15sCjDQkdC-0LPQvtGP0LLQu9C10L3RgdC60LjQuSDQpdGA0LDQvCDQmtGD0YDQs9Cw0L2SARBjaHJpc3RpYW5fY2h1cmNo4AEA!16s%2Fg%2F11xy8y_w8?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Богоявленский Храм"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-103318434": {
+      "patch": {
+        "name": "Свято-Духовский храм",
+        "lat": 55.42855,
+        "lon": 65.394588,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%94%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D1%80%D0%B0%D0%BC/@55.4311578,65.2132467,12z/data=!4m10!1m2!2m1!1z0KbQtdGA0LrQvtCy0Ywg0KHQvtGI0LXRgdGC0LLQuNGPINCh0LLRj9GC0L7Qs9C-INCU0YPRhdCwINCa0YPRgNCz0LDQvQ!3m6!1s0x43c58c5c55555555:0x918c877a84a05493!8m2!3d55.42855!4d65.394588!15sCkbQptC10YDQutC-0LLRjCDQodC-0YjQtdGB0YLQstC40Y8g0KHQstGP0YLQvtCz0L4g0JTRg9GF0LAg0JrRg9GA0LPQsNC9kgEQcGxhY2Vfb2Zfd29yc2hpcOABAA!16s%2Fg%2F1hdz8nfrc?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "12, пер. Малый, г. Курган, пос. Смолино, Курганская обл., Россия 640018, Малый пер., 12, Курган, Курганская обл., Россия, 640015",
+        "phone": "+7 352 223-93-06",
+        "website": "https://kurganvera.ru/",
+        "googleRating": 4.0,
+        "googleReviewCount": 8,
+        "aliases": [
+          "Церковь Сошествия Святого Духа"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-103407074": {
+      "patch": {
+        "name": "Храм Святой Троицы",
+        "lat": 55.420111,
+        "lon": 65.2495579,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9+%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D1%8B/@55.4311024,65.2129033,12z/data=!4m10!1m2!2m1!1z0KXRgNCw0Lwg0KHQstGP0YLQvtC5INCi0YDQvtC40YbRiyDQmtGD0YDQs9Cw0L0!3m6!1s0x43b7bef061587163:0xf0941344753e0a25!8m2!3d55.420111!4d65.2495579!15sCi_QpdGA0LDQvCDQodCy0Y_RgtC-0Lkg0KLRgNC-0LjRhtGLINCa0YPRgNCz0LDQvZIBEHBsYWNlX29mX3dvcnNoaXDgAQA!16s%2Fg%2F11yl61474?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Техническая ул., 10 а, Курган, Курганская обл., Россия, 640008",
+        "googleRating": 5.0,
+        "googleReviewCount": 2,
+        "aliases": [
+          "Храм Святой Троицы"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-239342926": {
+      "patch": {
+        "name": "Храм святителя Николая Чудотворца",
+        "lat": 55.4328297,
+        "lon": 65.3186468,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8F+%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B0/@55.4291286,65.3302934,15z/data=!4m10!1m2!2m1!1z0KfQsNGB0L7QstC90Y8g0JrRg9GA0LPQsNC9!3m6!1s0x43b7bd9438e0ff1d:0x5e00da44c5d4e71b!8m2!3d55.4328297!4d65.3186468!15sChvQp9Cw0YHQvtCy0L3RjyDQmtGD0YDQs9Cw0L2SAQZjaGFwZWzgAQA!16s%2Fg%2F11hdrrxlmw?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. 9 Января, 11, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.0,
+        "googleReviewCount": 1,
+        "aliases": [
+          "Часовня"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-1672290927": {
+      "patch": {
+        "name": "Памятник первому Российскому паровозу",
+        "lat": 55.4422616,
+        "lon": 65.3238657,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D1%83+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D1%83/data=!4m7!3m6!1s0x43b7bde83761a0b9:0xe305779c96d37587!8m2!3d55.4422616!4d65.3238657!16s%2Fg%2F11gmc1n84h!19sChIJuaBhN-i9t0MRh3XTlpx3BeM?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640000",
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D1%83+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D1%83/data=!4m7!3m6!1s0x43b7bde83761a0b9:0xe305779c96d37587!8m2!3d55.4422616!4d65.3238657!16s%2Fg%2F11gmc1n84h!19sChIJuaBhN-i9t0MRh3XTlpx3BeM?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Первому российскому паровозу"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-1676911955": {
+      "patch": {
+        "name": "Мемориал славы воинам — курганцам, погибшим в годы Великой Отечественной войны 1941-1945 годов",
+        "lat": 55.4398342,
+        "lon": 65.3384537,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB+%D1%81%D0%BB%D0%B0%D0%B2%D1%8B+%D0%B2%D0%BE%D0%B8%D0%BD%D0%B0%D0%BC+%E2%80%94+%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%86%D0%B0%D0%BC,+%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC+%D0%B2+%D0%B3%D0%BE%D0%B4%D1%8B+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9+%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9+%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B+1941-1945+%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2/data=!4m7!3m6!1s0x43b7bc48d8f0c68d:0x4d35e9ec05578ec0!8m2!3d55.4398342!4d65.3384537!16s%2Fg%2F11dxnydm7g!19sChIJjcbw2Ei8t0MRwI5XBezpNU0?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 53, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.7,
+        "googleReviewCount": 6,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB+%D1%81%D0%BB%D0%B0%D0%B2%D1%8B+%D0%B2%D0%BE%D0%B8%D0%BD%D0%B0%D0%BC+%E2%80%94+%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%86%D0%B0%D0%BC,+%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC+%D0%B2+%D0%B3%D0%BE%D0%B4%D1%8B+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9+%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9+%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B+1941-1945+%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2/data=!4m7!3m6!1s0x43b7bc48d8f0c68d:0x4d35e9ec05578ec0!8m2!3d55.4398342!4d65.3384537!16s%2Fg%2F11dxnydm7g!19sChIJjcbw2Ei8t0MRwI5XBezpNU0?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Павшим в боях курганцам"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-1677905179": {
+      "patch": {
+        "name": "Памятник Наташе Аргентовской",
+        "lat": 55.4362238,
+        "lon": 65.3534335,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9D%D0%B0%D1%82%D0%B0%D1%88%D0%B5+%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9/data=!4m7!3m6!1s0x43b7bc44d240c771:0xab63f92cba8542ac!8m2!3d55.4362238!4d65.3534335!16s%2Fg%2F125_f9pr8!19sChIJccdA0kS8t0MRrEKFuiz5Y6s?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "aliases": [
+          "Памятник Н. Аргентовской"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-1687300880": {
+      "patch": {
+        "name": "Обелиск десяти курганским комиссарам",
+        "lat": 55.4379068,
+        "lon": 65.3420823,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9E%D0%B1%D0%B5%D0%BB%D0%B8%D1%81%D0%BA+%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%B8+%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%BC+%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B0%D0%BC/@55.4379068,65.339502,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc48acd4d26d:0x325860bd907a6655!8m2!3d55.4379068!4d65.3420823!16s%2Fg%2F11f_pmq6l1?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Unnamed Road, Курган, Курганская обл., Россия, 640002",
+        "website": "https://history.kurgan.pro/glava-17-1-chehoslovaki-v-kurgane/1_ok-2/",
+        "googleRating": 5.0,
+        "googleReviewCount": 2,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Обелиск курганским комиссарам"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-1687300955": {
+      "patch": {
+        "name": "Мемориальный комплекс воинам – зауральцам, погибшим в локальных войнах и военных конфликтах",
+        "lat": 55.4428013,
+        "lon": 65.3529564,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%D0%B2%D0%BE%D0%B8%D0%BD%D0%B0%D0%BC+%E2%80%93+%D0%B7%D0%B0%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D0%BC,+%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC+%D0%B2+%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85+%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%85+%D0%B8+%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%B0%D1%85/data=!4m7!3m6!1s0x43b7bc5101a47f13:0xe1367c074e2b04dd!8m2!3d55.4428013!4d65.3529564!16s%2Fg%2F11d_7801j8!19sChIJE3-kAVG8t0MR3QQrTgd8NuE?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Пролетарская, 40А, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.7,
+        "googleReviewCount": 139,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%D0%B2%D0%BE%D0%B8%D0%BD%D0%B0%D0%BC+%E2%80%93+%D0%B7%D0%B0%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D0%BC,+%D0%BF%D0%BE%D0%B3%D0%B8%D0%B1%D1%88%D0%B8%D0%BC+%D0%B2+%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85+%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%85+%D0%B8+%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%B0%D1%85/data=!4m7!3m6!1s0x43b7bc5101a47f13:0xe1367c074e2b04dd!8m2!3d55.4428013!4d65.3529564!16s%2Fg%2F11d_7801j8!19sChIJE3-kAVG8t0MR3QQrTgd8NuE?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Памятник воинам-интернационалистам"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-1809101064": {
+      "hidden": true,
+      "reason": "Подтверждённый дубль карточки Google Maps",
+      "duplicateOf": "osm-node-1676911955"
+    },
+    "osm-node-1809135895": {
+      "hidden": true,
+      "reason": "Подтверждённый дубль карточки Google Maps",
+      "duplicateOf": "osm-node-1676911955"
+    },
+    "osm-node-1827312384": {
+      "patch": {
+        "name": "Генерал Шумилов",
+        "lat": 55.4404767,
+        "lon": 65.3380333,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB+%D0%A8%D1%83%D0%BC%D0%B8%D0%BB%D0%BE%D0%B2/data=!4m7!3m6!1s0x43b7bc493a37a9d9:0xe8ea3e9391d1d011!8m2!3d55.4404767!4d65.3380333!16s%2Fg%2F11c6cb8bq_!19sChIJ2ak3Okm8t0MREdDRkZM-6ug?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Пушкина, 147, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "aliases": [
+          "М.С. Шумилову"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-2084945356": {
+      "patch": {
+        "name": "Памятник жертвам политических репрессий",
+        "lat": 55.4360732,
+        "lon": 65.3488979,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%B0%D0%BC+%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D1%80%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B9/data=!4m7!3m6!1s0x43b7bc45aa7d1f97:0xb9910d56e6dc4cb5!8m2!3d55.4360732!4d65.3488979!16s%2Fg%2F11bc8_9nmw!19sChIJlx99qkW8t0MRtUzc5lYNkbk?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "aliases": [
+          "Жертвам политических репрессий"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-2441698005": {
+      "patch": {
+        "name": "Илизаров Г.А., Памятник",
+        "lat": 55.4939293,
+        "lon": 65.3090037,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%98%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2+%D0%93.%D0%90.,+%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/@55.4939293,65.3064234,17z/data=!3m1!4b1!4m6!3m5!1s0x43b797b927e67851:0xf762a0f9891fd7b6!8m2!3d55.4939293!4d65.3090037!16s%2Fg%2F11pdrv_qmb?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Ульяновой ул., 6 КНИИКОТ, Курган, Курганская обл., Россия, 640014",
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Памятник Г.А. Илизарову"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-2755993863": {
+      "patch": {
+        "name": "Скульптура \"Бык\"",
+        "lat": 55.367614,
+        "lon": 65.369934,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0+%22%D0%91%D1%8B%D0%BA%22/@55.367614,65.3673537,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bbd6b3c51339:0xad3504fac4580bad!8m2!3d55.367614!4d65.369934!16s%2Fg%2F11dxr39h63?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640016",
+        "googleRating": 4.4,
+        "googleReviewCount": 41,
+        "aliases": [
+          "Бык"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-3134923923": {
+      "patch": {
+        "name": "Стела \"Зауральцам - Героям Советского Союза\"",
+        "lat": 55.4393949,
+        "lon": 65.3387031,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0+%22%D0%97%D0%B0%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D0%BC+-+%D0%93%D0%B5%D1%80%D0%BE%D1%8F%D0%BC+%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0%22/data=!4m7!3m6!1s0x43b7bc48ded4ef3d:0xcb23d7f1d3f4f31!8m2!3d55.4393949!4d65.3387031!16s%2Fg%2F11dxnzp83v!19sChIJPe_U3ki8t0MRMU8_HX89sgw?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Володарского, 75, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 4,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0+%22%D0%97%D0%B0%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D0%BC+-+%D0%93%D0%B5%D1%80%D0%BE%D1%8F%D0%BC+%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0%22/data=!4m7!3m6!1s0x43b7bc48ded4ef3d:0xcb23d7f1d3f4f31!8m2!3d55.4393949!4d65.3387031!16s%2Fg%2F11dxnzp83v!19sChIJPe_U3ki8t0MRMU8_HX89sgw?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Зауральцам - Героям Советского Союза"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-5907632848": {
+      "patch": {
+        "name": "Мемориальный комплекс памяти павших комиссаров в борьбе за власть советов",
+        "lat": 55.4381898,
+        "lon": 65.3416479,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8+%D0%BF%D0%B0%D0%B2%D1%88%D0%B8%D1%85+%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%BE%D0%B2+%D0%B2+%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D0%B5+%D0%B7%D0%B0+%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D1%8C+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2/data=!4m7!3m6!1s0x43b7bc48b2dfdf39:0x8a15a4e555aa784d!8m2!3d55.4381898!4d65.3416479!16s%2Fg%2F11b6b85nbd!19sChIJOd_fski8t0MRTXiqVeWkFYo?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "aliases": [
+          "Памяти павших комиссаров"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-9866749317": {
+      "patch": {
+        "name": "Памятник \"БМП-2\"",
+        "lat": 55.4633509,
+        "lon": 65.3313444,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%22%D0%91%D0%9C%D0%9F-2%22/data=!4m7!3m6!1s0x43b7bda48db3b31d:0x9b1ef48dbd321997!8m2!3d55.4633509!4d65.3313444!16s%2Fg%2F11c70g6zp6!19sChIJHbOzjaS9t0MRlxkyvY30Hps?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "пр. Машиностроителей, 17, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.6,
+        "googleReviewCount": 99,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%22%D0%91%D0%9C%D0%9F-2%22/data=!4m7!3m6!1s0x43b7bda48db3b31d:0x9b1ef48dbd321997!8m2!3d55.4633509!4d65.3313444!16s%2Fg%2F11c70g6zp6!19sChIJHbOzjaS9t0MRlxkyvY30Hps?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "БМП"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-10653555106": {
+      "patch": {
+        "name": "Герб города Кургана, Монумент",
+        "lat": 55.4410737,
+        "lon": 65.3204085,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%93%D0%B5%D1%80%D0%B1+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%B0,+%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82/@55.4410737,65.3178282,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd87172d2b05:0xb65c96fcbef069d5!8m2!3d55.4410737!4d65.3204085!16s%2Fg%2F11g4c2fhzy?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%93%D0%B5%D1%80%D0%B1+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%B0,+%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82/@55.4410737,65.3178282,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd87172d2b05:0xb65c96fcbef069d5!8m2!3d55.4410737!4d65.3204085!16s%2Fg%2F11g4c2fhzy?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Герб города Курган"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-46149642": {
+      "patch": {
+        "name": "Молодежный парк",
+        "lat": 55.438826,
+        "lon": 65.361058,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%BA/data=!4m7!3m6!1s0x43b7bc5a25dd207f:0x95ca883c8072fcaa!8m2!3d55.438826!4d65.361058!16s%2Fg%2F1ptw4gsw7!19sChIJfyDdJVq8t0MRqvxygDyIypU?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.0,
+        "googleReviewCount": 2,
+        "aliases": [
+          "Молодежный парк"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-46725422": {
+      "patch": {
+        "name": "Администрация города Кургана",
+        "lat": 55.4410729,
+        "lon": 65.3404188,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%B0/@55.438897,65.3223078,13z/data=!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x2ace8ccd193bd7a8!8m2!3d55.4410729!4d65.3404188!16s%2Fg%2F11gz_tr8w?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "пл. им. В.И, ул. Ленина, 1, Курган, Курганская обл., Россия, 640002",
+        "phone": "+7 352 242-88-01",
+        "website": "https://kurgan-city.ru/",
+        "googleRating": 2.3,
+        "googleReviewCount": 12,
+        "aliases": [
+          "Администрация города Кургана"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72877721": {
+      "patch": {
+        "name": "Торговый дом купца М.М.Дунаева",
+        "lat": 55.4337667,
+        "lon": 65.3476716,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%BA%D1%83%D0%BF%D1%86%D0%B0+%D0%9C.+%D0%9C.+%D0%94%D1%83%D0%BD%D0%B0%D0%B5%D0%B2%D0%B0/@55.4337667,65.3450913,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc4410d2c659:0x758ee3f698ccc4c!8m2!3d55.4337667!4d65.3476716!16s%2Fg%2F11d_9hhfnz?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Володарского, 24, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 2,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Торговый дом купца М.М.Дунаева"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72877724": {
+      "patch": {
+        "name": "Пожарная часть №9",
+        "lat": 55.435352,
+        "lon": 65.351291,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D0%BD%D0%B0%D1%8F+%D1%87%D0%B0%D1%81%D1%82%D1%8C+%E2%84%969/@55.435352,65.3487107,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc44ee89613b:0xb734315c28a83b41!8m2!3d55.435352!4d65.351291!16s%2Fg%2F12qfbhgdb?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 62, Курган, Курганская обл., Россия, 640018",
+        "googleRating": 4.8,
+        "googleReviewCount": 4,
+        "aliases": [
+          "Пожарная часть №9"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72877737": {
+      "patch": {
+        "name": "Здание городской Думы в стиле классицизма",
+        "lat": 55.4343454,
+        "lon": 65.3519347,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D0%94%D1%83%D0%BC%D1%8B+%D0%B8+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D1%8B/data=!4m7!3m6!1s0x43b7bc44900275c3:0xcfed1b5955a3d8e7!8m2!3d55.4343454!4d65.3519347!16s%2Fg%2F11fxcf7prv!19sChIJw3UCkES8t0MR59ijVVkb7c8?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Климова, 61, Курган, Курганская обл., Россия, 640000",
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Здание городской Думы в стиле классицизма"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72884057": {
+      "patch": {
+        "name": "Россия",
+        "lat": 55.439117,
+        "lon": 65.33859,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F/@55.4357641,65.3143467,15z/data=!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xe6020d0fb024fc!8m2!3d55.439117!4d65.33859!16s%2Fg%2F11rcrtfxc?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Володарского, 75, Курган, Курганская обл., Россия, 640002",
+        "phone": "+7 352 260-52-50",
+        "website": "https://xn--45-vlcxjha7i.xn--p1ai/",
+        "googleRating": 4.4,
+        "googleReviewCount": 1096,
+        "aliases": [
+          "Россия"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72884081": {
+      "patch": {
+        "name": "Курганский государственный театр драмы",
+        "lat": 55.440913,
+        "lon": 65.344364,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%82%D0%B5%D0%B0%D1%82%D1%80+%D0%B4%D1%80%D0%B0%D0%BC%D1%8B/@55.440913,65.3417837,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xbd07c6f7fd58d71b!8m2!3d55.440913!4d65.344364!16s%2Fg%2F122w1h8d?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 58, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 246-15-19",
+        "website": "https://kurgandrama.ru/",
+        "googleRating": 4.6,
+        "googleReviewCount": 86,
+        "aliases": [
+          "Курганский государственный театр драмы"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-72884104": {
+      "patch": {
+        "name": "Курганский Государственный университет (экономический факультет)",
+        "lat": 55.441925,
+        "lon": 65.3418045,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D0%93%D0%A3,+%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/@55.440913,65.3417837,17z/data=!4m6!3m5!1s0x43b7bc4ecc58faa7:0x60c95c238a87b7fd!8m2!3d55.441925!4d65.3418045!16s%2Fg%2F1ptw0rs40?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Комсомольская ул., 38-а, Курган, Россия, 640000",
+        "phone": "+7 352 246-34-22",
+        "website": "https://kgsu.ru/",
+        "googleRating": 4.2,
+        "googleReviewCount": 6,
+        "aliases": [
+          "Курганский Государственный университет (экономический факультет)"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-73490518": {
+      "patch": {
+        "name": "Здание Союза сибирских маслодельных артелей",
+        "lat": 55.4344167,
+        "lon": 65.348223,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%BE%D1%8E%D0%B7+%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D1%85+%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85+%D0%90%D1%80%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/@55.4344167,65.3456427,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc44405ddda1:0x86e20b1af20e760e!8m2!3d55.4344167!4d65.348223!16s%2Fg%2F11fxb4jknv?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 57, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 4.5,
+        "googleReviewCount": 2,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Здание Союза сибирских маслодельных артелей"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-77348544": {
+      "patch": {
+        "name": "Памятник Леониду Красину",
+        "lat": 55.4297029,
+        "lon": 65.3398548,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D1%83+%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%BD%D1%83/@55.4351474,65.3493866,17z/data=!4m6!3m5!1s0x43b7bc3f5f75c0c1:0x9124e8d934dad49c!8m2!3d55.4297029!4d65.3398548!16s%2Fg%2F1269n0zn8?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул 640002, ул. Красина, 34, Курган, Курганская обл., Россия",
+        "googleRating": 4.5,
+        "googleReviewCount": 550,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D1%83+%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%BD%D1%83/@55.4351474,65.3493866,17z/data=!4m6!3m5!1s0x43b7bc3f5f75c0c1:0x9124e8d934dad49c!8m2!3d55.4297029!4d65.3398548!16s%2Fg%2F1269n0zn8?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Красину"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-79481716": {
+      "patch": {
+        "name": "Здание ремесленной школы",
+        "lat": 55.429613,
+        "lon": 65.339086,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D1%88%D0%BA%D0%BE%D0%BB%D0%B0+%E2%84%961/data=!4m7!3m6!1s0x43b7bc3f5ced2e3d:0x874b836df3cc0b8d!8m2!3d55.429613!4d65.339086!16s%2Fg%2F12qfg707j!19sChIJPS7tXD-8t0MRjQvM822DS4c?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 2, Курган, Курганская обл., Россия, 640020",
+        "phone": "+7 352 246-59-33",
+        "website": "https://dmsh1.kurg.muzkult.ru/",
+        "googleRating": 5.0,
+        "googleReviewCount": 13,
+        "aliases": [
+          "Здание ремесленной школы"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-79481794": {
+      "patch": {
+        "name": "Детская школа искусств №1",
+        "lat": 55.4330061,
+        "lon": 65.3489012,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%E2%84%96+1/data=!4m7!3m6!1s0x43b7bc440a0f1f8b:0x89154dd67a872eed!8m2!3d55.4330061!4d65.3489012!16s%2Fg%2F12qf8_9th!19sChIJix8PCkS8t0MR7S6HetZNFYk?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Климова, 47, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 242-62-61",
+        "googleRating": 5.0,
+        "googleReviewCount": 9,
+        "aliases": [
+          "Детская школа искусств №1"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80619692": {
+      "patch": {
+        "name": "Гулливер",
+        "lat": 55.4370486,
+        "lon": 65.3505159,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%93%D1%83%D0%BB%D0%BB%D0%B8%D0%B2%D0%B5%D1%80/@55.4370486,65.3479356,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x8c14830d9a44b02e!8m2!3d55.4370486!4d65.3505159!16s%2Fg%2F1220wgz2?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 104, Курган, Курганская обл., Россия, 640002",
+        "phone": "+7 352 246-66-22",
+        "website": "https://gulliver45.ru/",
+        "googleRating": 4.7,
+        "googleReviewCount": 140,
+        "aliases": [
+          "Курганский театр кукол «Гулливер»"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80619713": {
+      "patch": {
+        "name": "Флигель купцов Дерягиных",
+        "lat": 55.4348896,
+        "lon": 65.349168,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A4%D0%BB%D0%B8%D0%B3%D0%B5%D0%BB%D1%8C+%D0%BA%D1%83%D0%BF%D1%86%D0%BE%D0%B2+%D0%94%D0%B5%D1%80%D1%8F%D0%B3%D0%B8%D0%BD%D1%8B%D1%85/@55.4348896,65.3465877,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc445b76382d:0x5a6a67343c1bf6e4!8m2!3d55.4348896!4d65.349168!16s%2Fg%2F11d_9cr005?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 63, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 5.0,
+        "googleReviewCount": 2,
+        "aliases": [
+          "Флигель купцов Дерягиных"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80622692": {
+      "patch": {
+        "name": "Жилой дом купцов Корнильцевых",
+        "lat": 55.4366845,
+        "lon": 65.3490074,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%BA%D1%83%D0%BF%D1%86%D0%BE%D0%B2+%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%8B%D1%85/@55.4366845,65.3464271,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc450f52a7af:0x8ba3235066b5a4fb!8m2!3d55.4366845!4d65.3490074!16s%2Fg%2F11g8z6y317?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 81, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 1.0,
+        "googleReviewCount": 1,
+        "aliases": [
+          "Дом купцов Корнильцевых"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80624613": {
+      "patch": {
+        "name": "Двухэтажное кирпичное здание стиля «Модерн»",
+        "lat": 55.436885,
+        "lon": 65.346701,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D0%BE%D0%B5+%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5+%D1%81%D1%82%D0%B8%D0%BB%D1%8F+%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD/@55.436885,65.3441207,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb25398ec49:0x9395aa61dee4fe50!8m2!3d55.436885!4d65.346701!16s%2Fg%2F11ghndc9zf?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Максима Горького, 84, Курган, Курганская обл., Россия, 640000",
+        "website": "https://kurgan.pro/okn/n010/",
+        "aliases": [
+          "Двухэтажное кирпичное здание стиля «Модерн»"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "website"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80624628": {
+      "patch": {
+        "name": "Дом с мезонином",
+        "lat": 55.4367955,
+        "lon": 65.3461846,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D1%81+%D0%BC%D0%B5%D0%B7%D0%BE%D0%BD%D0%B8%D0%BD%D0%BE%D0%BC.+%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B/@55.4368832,65.3262244,14.01z/data=!4m6!3m5!1s0x43b7bc45958ca105:0x9d0e788e69da3f1b!8m2!3d55.4367955!4d65.3461846!16s%2Fg%2F11g81fck58?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Максима Горького, 80, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 3,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дом с мезонином"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80645689": {
+      "patch": {
+        "name": "Курганский областной наркологический диспансер",
+        "lat": 55.436044,
+        "lon": 65.335823,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D0%9D%D0%B0%D1%80%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%94%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%B5%D1%80/@55.436044,65.3332427,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc47e21af3dd:0x31c4d73bb5612f29!8m2!3d55.436044!4d65.335823!16s%2Fg%2F1q62jyvkh?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Кирова, 78, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 242-13-76",
+        "googleRating": 1.9,
+        "googleReviewCount": 15,
+        "aliases": [
+          "Курганский областной наркологический диспансер"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80653146": {
+      "patch": {
+        "name": "Пивоваренный завод",
+        "lat": 55.431048,
+        "lon": 65.3331,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%9F%D0%B8%D0%B2%D0%BE%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%97%D0%B0%D0%B2%D0%BE%D0%B4/@55.431048,65.3305197,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x2cdcb357068882b4!8m2!3d55.431048!4d65.3331!16s%2Fg%2F11h0p35qw?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Максима Горького, 3, Курган, Курганская обл., Россия, 640020",
+        "phone": "+7 352 225-69-75",
+        "website": "https://znapitki.ru/",
+        "googleRating": 4.6,
+        "googleReviewCount": 49,
+        "aliases": [
+          "Пивоваренный завод"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-81813773": {
+      "patch": {
+        "name": "Дом Е.Л.Кропанина",
+        "lat": 55.4361049,
+        "lon": 65.3325291,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%95.%D0%9B.+%D0%9A%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0/@55.4361049,65.3299488,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc37e49cc10b:0xa821bf0c3787e8d2!8m2!3d55.4361049!4d65.3325291!16s%2Fg%2F11fy_5s_3t?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 19, Курган, Курганская обл., Россия, 640000",
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дом Е.Л.Кропанина"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-81813774": {
+      "patch": {
+        "name": "Жилой дом В.М. Каргаполова",
+        "lat": 55.4363321,
+        "lon": 65.3330991,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%92.+%D0%9C.+%D0%9A%D0%B0%D1%80%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0/@55.4363321,65.3305188,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc37e30443af:0xb6c3473fa660bf7e!8m2!3d55.4363321!4d65.3330991!16s%2Fg%2F11gdknhqpb?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 23, Курган, Курганская обл., Россия, 640000",
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Жилой дом В.М. Каргаполова"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82162981": {
+      "patch": {
+        "name": "Дом и магазин купцов Рыловых",
+        "lat": 55.437999,
+        "lon": 65.3516388,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%B8+%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD+%D0%BA%D1%83%D0%BF%D1%86%D0%BE%D0%B2+%D0%A0%D1%8B%D0%BB%D0%BE%D0%B2%D1%8B%D1%85/@55.437999,65.3490585,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc454a117fa1:0x8f4c5587b8e20795!8m2!3d55.437999!4d65.3516388!16s%2Fg%2F11fxzh_t3s?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 95, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дом и магазин купцов Рыловых"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82162994": {
+      "patch": {
+        "name": "Дом, связанный с историей курганских большевиков",
+        "lat": 55.4380917,
+        "lon": 65.3527148,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC,+%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B9+%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2/@55.4380917,65.3501345,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5ac9f5a62d:0x527dd0f303d96cc1!8m2!3d55.4380917!4d65.3527148!16s%2Fg%2F11f0155ksz?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 116, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "aliases": [
+          "Дом, связанный с историей курганских большевиков"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82162996": {
+      "patch": {
+        "name": "Жилой дом Иконниковых",
+        "lat": 55.4396254,
+        "lon": 65.3550713,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%98%D0%BA%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D1%85/@55.4396254,65.352491,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a8685c49d:0x63399cb98c59c865!8m2!3d55.4396254!4d65.3550713!16s%2Fg%2F11fxw6llrx?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 123, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Жилой дом Иконниковых"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165108": {
+      "patch": {
+        "name": "Жилой дом с магазинами купца Д.Ф.Колпакова",
+        "lat": 55.4393261,
+        "lon": 65.358017,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D1%81+%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8+%D0%BA%D1%83%D0%BF%D1%86%D0%B0+%D0%94.+%D0%A4.+%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0/@55.4393261,65.3554367,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a6a748a63:0x2f613a0ff83b8fb6!8m2!3d55.4393261!4d65.358017!16s%2Fg%2F11f0154nmd?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 111, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Жилой дом с магазинами купца Д.Ф.Колпакова"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165115": {
+      "patch": {
+        "name": "Дома купцов А.Д.Смолина и Т.Е.Колесникова",
+        "lat": 55.4396156,
+        "lon": 65.3587569,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D1%8B%D0%B5+%D0%B4%D0%BE%D0%BC%D0%B0+%D0%BA%D1%83%D0%BF%D1%86%D0%BE%D0%B2+%D0%90.+%D0%94.+%D0%A1%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0+%D0%B8+%D0%A2.+%D0%95.+%D0%9A%D0%BE%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0/@55.4396156,65.3561766,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a15d04ba3:0x9df033684a5e4c96!8m2!3d55.4396156!4d65.3587569!16s%2Fg%2F11g9jg8ync?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 117, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дома купцов А.Д.Смолина и Т.Е.Колесникова"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165130": {
+      "patch": {
+        "name": "Жилой дом купца Д. П. Кропанина",
+        "lat": 55.4400241,
+        "lon": 65.3567823,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%BA%D1%83%D0%BF%D1%86%D0%B0+%D0%94.+%D0%9F.+%D0%9A%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0/@55.4400241,65.354202,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a70e459ab:0x1473bd4645242658!8m2!3d55.4400241!4d65.3567823!16s%2Fg%2F11fy0zmvzl?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 142, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 2,
+        "aliases": [
+          "Дом купца Д.П.Кропанина"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165133": {
+      "patch": {
+        "name": "Здание Лесной школы",
+        "lat": 55.4415312,
+        "lon": 65.3590172,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5+%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9+%D1%88%D0%BA%D0%BE%D0%BB%D1%8B/@55.4415312,65.3564369,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc57531f47e3:0x6fe98e810af36a6b!8m2!3d55.4415312!4d65.3590172!16s%2Fg%2F11g9f2w19y?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 151к1, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Здание Лесной школы"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165141": {
+      "patch": {
+        "name": "Дом крестьянина К.К.Букова",
+        "lat": 55.4405353,
+        "lon": 65.3569914,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%B8%D0%BD%D0%B0+%D0%9A.+%D0%9A.+%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B0/@55.4405353,65.3544111,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a7579221b:0xe2af5ddfffcecf56!8m2!3d55.4405353!4d65.3569914!16s%2Fg%2F11fxw56x32?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 135, Курган, Курганская обл., Россия, 640000",
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дом крестьянина К.К.Букова"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165147": {
+      "patch": {
+        "name": "Дом доктора Державина",
+        "lat": 55.4412217,
+        "lon": 65.358444,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0+%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0/@55.4405352,65.3544004,17z/data=!4m6!3m5!1s0x43b7bc50a9521d1f:0x5561fba16e29a872!8m2!3d55.4412217!4d65.358444!16s%2Fg%2F11d_v86wjm?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 149, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дом доктора Державина"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165148": {
+      "patch": {
+        "name": "Торговая лавка купца М.Е.Серова",
+        "lat": 55.4398689,
+        "lon": 65.3594204,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0+%D0%BA%D1%83%D0%BF%D1%86%D0%B0+%D0%9C.+%D0%95.+%D0%A1%D0%B5%D1%80%D0%BE%D0%B2%D0%B0/@55.4398689,65.3568401,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a19bc40ff:0xd6e00a52e4789bf5!8m2!3d55.4398689!4d65.3594204!16s%2Fg%2F11f016f41q?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 121, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Торговая лавка купца М.Е.Серова"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165152": {
+      "patch": {
+        "name": "Дом А.П.Галямина",
+        "lat": 55.4409111,
+        "lon": 65.3615702,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%90.+%D0%9F.+%D0%93%D0%B0%D0%BB%D1%8F%D0%BC%D0%B8%D0%BD%D0%B0/@55.4409111,65.3589899,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc59e646df83:0xc9038d1bb619e081!8m2!3d55.4409111!4d65.3615702!16s%2Fg%2F11fxzjxlz2?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 131, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Дом А.П.Галямина"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165153": {
+      "patch": {
+        "name": "Жилой дом Я.Н.Стрельникова",
+        "lat": 55.4418626,
+        "lon": 65.3606992,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9+%D0%B4%D0%BE%D0%BC+%D0%AF.%D0%9D.+%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0/@55.4418626,65.3581189,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc575c5ca8d7:0x739f9795af9522d6!8m2!3d55.4418626!4d65.3606992!16s%2Fg%2F11d_s670cx?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 160, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "aliases": [
+          "Жилой дом Я.Н.Стрельникова"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165375": {
+      "patch": {
+        "name": "Дом иностранных монополий",
+        "lat": 55.441631,
+        "lon": 65.3630882,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%D0%BC%D0%BE%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D0%B9/@55.441631,65.3605079,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc59d691a2d3:0x5e457363b11a2243!8m2!3d55.441631!4d65.3630882!16s%2Fg%2F11g9dk23ds?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 139, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.7,
+        "googleReviewCount": 3,
+        "aliases": [
+          "Дом иностранных монополий"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82165377": {
+      "patch": {
+        "name": "Троицкое мужское училище",
+        "lat": 55.4413632,
+        "lon": 65.3625268,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%BE%D0%B5+%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5+%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5/@55.441631,65.3605079,17z/data=!4m6!3m5!1s0x43b7bc59da2b9fd1:0xc1b87d0c682e9027!8m2!3d55.4413632!4d65.3625268!16s%2Fg%2F11fxvwfswf?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 137, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.0,
+        "googleReviewCount": 1,
+        "businessStatus": "permanently_closed",
+        "aliases": [
+          "Троицкое мужское училище"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-82198192": {
+      "patch": {
+        "name": "Дом купцов Смолиных",
+        "lat": 55.445076,
+        "lon": 65.3757071,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BF%D1%86%D0%BE%D0%B2+%D0%A1%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%8B%D1%85/@55.4413639,65.3599481,17z/data=!4m6!3m5!1s0x43b7bcfa02779bd1:0x93536cfa82ed8971!8m2!3d55.445076!4d65.3757071!16s%2Fg%2F11g9vqc4zn?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 122, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 2,
+        "aliases": [
+          "Административное здание винокуренного завода Д.И.Смолина"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-155381068": {
+      "patch": {
+        "name": "Сквер им. В.С. Высоцкого",
+        "lat": 55.4368391,
+        "lon": 65.3512312,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%BA%D0%B2%D0%B5%D1%80+%D0%B8%D0%BC.+%D0%92.%D0%A1.+%D0%92%D1%8B%D1%81%D0%BE%D1%86%D0%BA%D0%BE%D0%B3%D0%BE/@55.4432028,65.3571839,17z/data=!4m6!3m5!1s0x43b7bc4523955555:0x90575226d08babbb!8m2!3d55.4368391!4d65.3512312!16s%2Fg%2F11x_czylgm?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Ленина, Курган, Курганская обл., Россия, 640002",
+        "aliases": [
+          "Сквер им. Высоцкого"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-156486863": {
+      "patch": {
+        "name": "Сад Барона Розена",
+        "lat": 55.4356498,
+        "lon": 65.3452544,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%B0%D0%B4+%D0%91%D0%B0%D1%80%D0%BE%D0%BD%D0%B0+%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B0/data=!4m7!3m6!1s0x43b7bc45d1e87ac9:0x10acd847aaa4f28!8m2!3d55.4356498!4d65.3452544!16s%2Fg%2F124t1crcs!19sChIJyXro0UW8t0MRKE-qeoTNCgE?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.5,
+        "googleReviewCount": 147,
+        "aliases": [
+          "Сад барона Розена"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-232051232": {
+      "patch": {
+        "name": "Бабьи пески",
+        "lat": 55.4260582,
+        "lon": 65.3275466,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%91%D0%B0%D0%B1%D1%8C%D0%B8+%D0%BF%D0%B5%D1%81%D0%BA%D0%B8/@55.4260582,65.3249663,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd93231cbe6d:0xcf9dd71890d24424!8m2!3d55.4260582!4d65.3275466!16s%2Fg%2F11kgwwpgw4?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "7 Больничная ул., 40, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.5,
+        "googleReviewCount": 75,
+        "aliases": [
+          "Пляж \"Бабьи пески\""
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-623055251": {
+      "patch": {
+        "name": "Номера Васильевых - городская гостиница",
+        "lat": 55.4403325,
+        "lon": 65.3565348,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80%D0%B0+%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D1%8B%D1%85/@55.4403325,65.3539545,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc5a764d4bc7:0xa4efe9e83f1bf232!8m2!3d55.4403325!4d65.3565348!16s%2Fg%2F11f123vfz5?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 131, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 3.5,
+        "googleReviewCount": 2,
+        "aliases": [
+          "Номера Васильевых - городская гостиница"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-1381119862": {
+      "patch": {
+        "name": "Святодуховский сквер",
+        "lat": 55.4880493,
+        "lon": 65.3159737,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BA%D0%B2%D0%B5%D1%80/@55.4880493,65.3133934,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd80e0ffffff:0xc27a103e1e3d4cd!8m2!3d55.4880493!4d65.3159737!16s%2Fg%2F11md_kc0z9?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Карбышева, Курган, Курганская обл., Россия, 640014",
+        "aliases": [
+          "Святодуховский сквер"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-relation-2293502": {
+      "patch": {
+        "name": "Детский Парк",
+        "lat": 55.4347276,
+        "lon": 65.328057,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%9F%D0%B0%D1%80%D0%BA/data=!4m7!3m6!1s0x43b7bc376051773d:0x4aa7ae68d71c5903!8m2!3d55.4347276!4d65.328057!16s%2Fg%2F11bw232zyc!19sChIJPXdRYDe8t0MRA1kc12iup0o?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "aliases": [
+          "Детский парк"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-relation-11562444": {
+      "patch": {
+        "name": "Дворец детского и юношеского творчества",
+        "lat": 55.4393606,
+        "lon": 65.3403607,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86+%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D1%8E%D0%BD%D0%BE%D1%88%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D1%82%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0+%D0%B3.%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD/@55.4341444,65.3158849,17z/data=!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xcf437e319e49db04!8m2!3d55.4393606!4d65.3403607!16s%2Fg%2F1hd_l0lnl?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 54, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 246-28-21",
+        "website": "https://dt45.ru/",
+        "googleRating": 4.3,
+        "googleReviewCount": 37,
+        "aliases": [
+          "Дворец детского и юношеского творчества"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80657494": {
+      "patch": {
+        "name": "Курганский областной краеведческий музей",
+        "lat": 55.4405575,
+        "lon": 65.3373801,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D0%BA%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/@55.4405575,65.3347998,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0x805697933d25f509!8m2!3d55.4405575!4d65.3373801!16s%2Fg%2F15dp8rdr?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Пушкина, 137, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 246-60-53",
+        "website": "https://komo45.ru/museums/kraevedceskii-muzei",
+        "googleRating": 4.7,
+        "googleReviewCount": 201,
+        "businessStatus": "temporarily_closed",
+        "category": "Музей",
+        "aliases": [
+          "Курганский областной краеведческий музей"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "businessStatus"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80605952": {
+      "patch": {
+        "name": "Дом-музей В.К. Кюхельбекера",
+        "lat": 55.430981,
+        "lon": 65.3407841,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%92.%D0%9A.+%D0%9A%D1%8E%D1%85%D0%B5%D0%BB%D1%8C%D0%B1%D0%B5%D0%BA%D0%B5%D1%80%D0%B0/data=!4m7!3m6!1s0x43b7bdb30bdbe3c9:0x485ece18d02d9525!8m2!3d55.430981!4d65.3407841!16s%2Fg%2F1hdzlqd4q!19sChIJyePbC7O9t0MRJZUt0BjOXkg?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 19, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 264-20-90",
+        "googleRating": 4.8,
+        "googleReviewCount": 56,
+        "openingHours": "Mo off; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-19:00; Su off",
+        "hoursSource": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%92.%D0%9A.+%D0%9A%D1%8E%D1%85%D0%B5%D0%BB%D1%8C%D0%B1%D0%B5%D0%BA%D0%B5%D1%80%D0%B0/data=!4m7!3m6!1s0x43b7bdb30bdbe3c9:0x485ece18d02d9525!8m2!3d55.430981!4d65.3407841!16s%2Fg%2F1hdzlqd4q!19sChIJyePbC7O9t0MRJZUt0BjOXkg?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "category": "Музей",
+        "aliases": [
+          "Дом-музей декабриста В.К. Кюхельбекера"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-3379998815": {
+      "patch": {
+        "name": "Музей истории центра академика Г. А. Илизарова",
+        "lat": 55.4949406,
+        "lon": 65.3026442,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0+%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0+%D0%93.+%D0%90.+%D0%98%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%B0/data=!4m7!3m6!1s0x43b7bdb30bdbe3c9:0xce82712810401350!8m2!3d55.4949406!4d65.3026442!16s%2Fg%2F113qbhzhb!19sChIJyePbC7O9t0MRUBNAEChxgs4?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Ульяновой ул., 6, корп. 2, Курган, Курганская обл., Россия, 640014",
+        "phone": "+7 352 223-44-84",
+        "googleRating": 4.3,
+        "googleReviewCount": 23,
+        "openingHours": "Mo 09:00-12:00,12:30-17:00; Tu 09:00-12:00,12:30-17:00; We 09:00-12:00,12:30-17:00; Th 09:00-12:00,12:30-17:00; Fr 09:00-12:00,12:30-17:00; Sa off; Su off",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0+%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0+%D0%93.+%D0%90.+%D0%98%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%B0/data=!4m7!3m6!1s0x43b7bdb30bdbe3c9:0xce82712810401350!8m2!3d55.4949406!4d65.3026442!16s%2Fg%2F113qbhzhb!19sChIJyePbC7O9t0MRUBNAEChxgs4?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "category": "Музей",
+        "aliases": [
+          "РНЦ ВТО"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-176989977": {
+      "patch": {
+        "name": "Авиамузей",
+        "lat": 55.4612172,
+        "lon": 65.4119513,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%90%D0%B2%D0%B8%D0%B0%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/data=!4m7!3m6!1s0x43b7bdb30bdbe3c9:0x7b6c8b2ed473148c!8m2!3d55.4612172!4d65.4119513!16s%2Fg%2F1xy2t102!19sChIJyePbC7O9t0MRjBRz1C6LbHs?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гагарина, 41А, Курган, Курганская обл., Россия, 640015",
+        "phone": "+7 919 560-07-71",
+        "website": "https://airkurgan.ru/%D0%BE%D0%B1-%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B5/%D0%B0%D0%B2%D0%B8%D0%B0%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.html",
+        "googleRating": 4.5,
+        "googleReviewCount": 244,
+        "openingHours": "Mo off; Tu off; We 10:00-16:00; Th 10:00-16:00; Fr 10:00-16:00; Sa 10:00-16:00; Su 10:00-16:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%90%D0%B2%D0%B8%D0%B0%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/data=!4m7!3m6!1s0x43b7bdb30bdbe3c9:0x7b6c8b2ed473148c!8m2!3d55.4612172!4d65.4119513!16s%2Fg%2F1xy2t102!19sChIJyePbC7O9t0MRjBRz1C6LbHs?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "category": "Музей",
+        "aliases": [
+          "Выставка авиационной техники"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-452637088": {
+      "patch": {
+        "name": "Богоявленский кафедральный собор",
+        "lat": 55.4291291,
+        "lon": 65.3406253,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80/@55.4291291,65.338045,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc409d77871d:0x9305f59922566e2b!8m2!3d55.4291291!4d65.3406253!16s%2Fg%2F11b7d_97qn?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Климова, 3, Курган, Курганская обл., Россия, 640020",
+        "phone": "+7 352 260-55-75",
+        "website": "https://kurganvera.ru/",
+        "googleRating": 4.5,
+        "googleReviewCount": 31,
+        "openingHours": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 09:00-20:00; Su 09:00-20:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80/@55.4291291,65.338045,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc409d77871d:0x9305f59922566e2b!8m2!3d55.4291291!4d65.3406253!16s%2Fg%2F11b7d_97qn?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Богоявленский кафедральный собор"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-114835570": {
+      "patch": {
+        "name": "Храм в честь Божией Матери \"Порт Артурская\"",
+        "lat": 55.455629,
+        "lon": 65.322584,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%B2+%D1%87%D0%B5%D1%81%D1%82%D1%8C+%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9+%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8+%22%D0%9F%D0%BE%D1%80%D1%82+%D0%90%D1%80%D1%82%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F%22/@55.455629,65.3200037,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb741699513:0xaaca89362a63fbb6!8m2!3d55.455629!4d65.322584!16s%2Fg%2F11bbrl354m?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Ястржембского, 41А/1, Курган, Курганская обл., Россия, 640007",
+        "phone": "+7 922 677-88-48",
+        "website": "https://port-artur-hram.ru/",
+        "googleRating": 4.9,
+        "googleReviewCount": 10,
+        "openingHours": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 09:00-17:00; Su 09:00-17:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%B2+%D1%87%D0%B5%D1%81%D1%82%D1%8C+%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9+%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8+%22%D0%9F%D0%BE%D1%80%D1%82+%D0%90%D1%80%D1%82%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F%22/@55.455629,65.3200037,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb741699513:0xaaca89362a63fbb6!8m2!3d55.455629!4d65.322584!16s%2Fg%2F11bbrl354m?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Храм Порт-Артурской иконы Божьей Матери"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-120972682": {
+      "patch": {
+        "name": "Храм Пантелеймона Целителя",
+        "lat": 55.48893,
+        "lon": 65.3159151,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%D0%BC%D0%BE%D0%BD%D0%B0+%D0%A6%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/@55.48893,65.3133348,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xb4379feace165102!8m2!3d55.48893!4d65.3159151!16s%2Fg%2F1hd_fr83f?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Анфиногенова, 57А, Курган, Курганская обл., Россия, 640014",
+        "phone": "+7 352 256-75-45",
+        "googleRating": 5.0,
+        "googleReviewCount": 5,
+        "openingHours": "Mo 08:00-18:00; Tu 08:00-18:00; We 08:00-18:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-18:30; Su 08:00-16:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%D0%BC%D0%BE%D0%BD%D0%B0+%D0%A6%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/@55.48893,65.3133348,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xb4379feace165102!8m2!3d55.48893!4d65.3159151!16s%2Fg%2F1hd_fr83f?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Храм Целителя Пантелеймона"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-173015006": {
+      "patch": {
+        "name": "Храм преподобного Серафима Саровского",
+        "lat": 55.4523992,
+        "lon": 65.3671622,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE%D0%B3%D0%BE+%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%B0+%D0%A1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE/@55.4523992,65.3645819,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd7a940b78cb:0xe0fb7f76981bcfd2!8m2!3d55.4523992!4d65.3671622!16s%2Fg%2F11q8wxwv4w?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 130, Курган, Курганская обл., Россия, 640022",
+        "phone": "+7 922 579-70-88",
+        "website": "https://kurganvera.ru/parishes/temples/khram-prepodobnogo-serafima-sarovskogo/",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "openingHours": "Mo 09:00-17:00; Tu 09:00-17:00; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 09:00-17:00; Su 09:00-17:00",
+        "hoursSource": "https://www.google.com/maps/place/%D0%A5%D1%80%D0%B0%D0%BC+%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE%D0%B3%D0%BE+%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%B0+%D0%A1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE/@55.4523992,65.3645819,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd7a940b78cb:0xe0fb7f76981bcfd2!8m2!3d55.4523992!4d65.3671622!16s%2Fg%2F11q8wxwv4w?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Храм преподобного Серафима Саровского"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-702416567": {
+      "patch": {
+        "name": "Танк Т-34",
+        "lat": 55.4268076,
+        "lon": 65.2784913,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A2%D0%B0%D0%BD%D0%BA+%D0%A2-34/@55.4268076,65.275911,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7be8f1a5d83ad:0xc7d3fc18ee9d6f5a!8m2!3d55.4268076!4d65.2784913!16s%2Fg%2F11g6xs3d1y?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Коли Мяготина, 4, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.6,
+        "googleReviewCount": 80,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%A2%D0%B0%D0%BD%D0%BA+%D0%A2-34/@55.4268076,65.275911,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7be8f1a5d83ad:0xc7d3fc18ee9d6f5a!8m2!3d55.4268076!4d65.2784913!16s%2Fg%2F11g6xs3d1y?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Памятник танкистам"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-node-14039058901": {
+      "patch": {
+        "name": "культурно-исторический комплекс \"Парк Царево городище\"",
+        "lat": 55.4181849,
+        "lon": 65.2476606,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%22%D0%9F%D0%B0%D1%80%D0%BA+%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%BE+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5%22/@55.4181849,65.2450803,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7befaa31ab5d1:0x8f606da9bb53e4e2!8m2!3d55.4181849!4d65.2476606!16s%2Fg%2F11c54c5qvy?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "пр. Конституции, 32А, Курган, Курганская обл., Россия, 640008",
+        "googleRating": 4.4,
+        "googleReviewCount": 89,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%22%D0%9F%D0%B0%D1%80%D0%BA+%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%BE+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5%22/@55.4181849,65.2450803,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7befaa31ab5d1:0x8f606da9bb53e4e2!8m2!3d55.4181849!4d65.2476606!16s%2Fg%2F11c54c5qvy?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "category": "Музей",
+        "aliases": [
+          "Царево городище"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-80619711": {
+      "patch": {
+        "name": "Фотография №1",
+        "lat": 55.4351474,
+        "lon": 65.3493866,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F+%E2%84%96+1/@55.4351474,65.3468063,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc44590cd187:0x151eace57ccbca31!8m2!3d55.4351474!4d65.3493866!16s%2Fg%2F1q67mf2rm?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Куйбышева, 65, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 242-13-70",
+        "googleRating": 4.8,
+        "googleReviewCount": 40,
+        "aliases": [
+          "Фотография №1"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-81815247": {
+      "patch": {
+        "name": "Дом инженера Ф.Ф. Остапца",
+        "lat": 55.4363264,
+        "lon": 65.329068,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B0+%D0%A4.%D0%A4.+%D0%9E%D1%81%D1%82%D0%B0%D0%BF%D1%86%D0%B0/@55.4363264,65.3264877,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc37a3ddfc17:0x55b583c0e1d7cb0!8m2!3d55.4363264!4d65.329068!16s%2Fg%2F11ddzh2jlr?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Пушкина, 85, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 8,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B0+%D0%A4.%D0%A4.+%D0%9E%D1%81%D1%82%D0%B0%D0%BF%D1%86%D0%B0/@55.4363264,65.3264877,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc37a3ddfc17:0x55b583c0e1d7cb0!8m2!3d55.4363264!4d65.329068!16s%2Fg%2F11ddzh2jlr?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Дом инженера Ф.Ф.Остапца"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-96447644": {
+      "patch": {
+        "name": "Дом А.А. Данилушкина",
+        "lat": 55.4432028,
+        "lon": 65.3597642,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%90.%D0%90.+%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0/@55.4432028,65.3571839,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd78dc6134df:0x26480c2a5ab8cfa3!8m2!3d55.4432028!4d65.3597642!16s%2Fg%2F11mv4w75wb?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Максима Горького, 170, Курган, Курганская обл., Россия, 640006",
+        "googleRating": 5.0,
+        "googleReviewCount": 1,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%90.%D0%90.+%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0/@55.4432028,65.3571839,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bd78dc6134df:0x26480c2a5ab8cfa3!8m2!3d55.4432028!4d65.3597642!16s%2Fg%2F11mv4w75wb?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Дом А.А. Данилушкина"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-236042654": {
+      "patch": {
+        "name": "Вечный огонь",
+        "lat": 55.4401958,
+        "lon": 65.3378364,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9+%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C/@55.4401958,65.3352561,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc493cba90e9:0xcf46ca741a8ed138!8m2!3d55.4401958!4d65.3378364!16s%2Fg%2F11g7_mdkg9?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Пушкина, 147, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 5.0,
+        "googleReviewCount": 46,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9+%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C/@55.4401958,65.3352561,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc493cba90e9:0xcf46ca741a8ed138!8m2!3d55.4401958!4d65.3378364!16s%2Fg%2F11g7_mdkg9?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Вечный Огонь"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-239715417": {
+      "patch": {
+        "name": "Центральный парк культуры и отдыха",
+        "lat": 55.4315105,
+        "lon": 65.3276247,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%BA+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%B8+%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0/@55.4315105,65.3250444,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc3bd200117b:0x50afd83329ef51fc!8m2!3d55.4315105!4d65.3276247!16s%2Fg%2F1hbpw_6y2?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 1, Курган, Курганская обл., Россия, 640002",
+        "googleRating": 4.2,
+        "googleReviewCount": 3273,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%BA+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%B8+%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0/@55.4315105,65.3250444,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc3bd200117b:0x50afd83329ef51fc!8m2!3d55.4315105!4d65.3276247!16s%2Fg%2F1hbpw_6y2?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "ЦПКиО"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-552240528": {
+      "patch": {
+        "name": "Памятник Т.С. Мальцеву",
+        "lat": 55.4636136,
+        "lon": 65.266903,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%A2.%D0%A1.+%D0%9C%D0%B0%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%83/@55.4636136,65.2643227,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bde20e64a983:0x9c5de3d29f6dd934!8m2!3d55.4636136!4d65.266903!16s%2Fg%2F11c52spc8s?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "3-й, Курган, Курганская обл., Россия",
+        "googleRating": 4.7,
+        "googleReviewCount": 18,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%A2.%D0%A1.+%D0%9C%D0%B0%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%83/@55.4636136,65.2643227,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bde20e64a983:0x9c5de3d29f6dd934!8m2!3d55.4636136!4d65.266903!16s%2Fg%2F11c52spc8s?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Т. С. Мальцев",
+          "Malcev",
+          "Мальцев"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-552483687": {
+      "patch": {
+        "name": "Основатель города Тимофей Невежин, Памятник",
+        "lat": 55.4410412,
+        "lon": 65.3200728,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9+%D0%9D%D0%B5%D0%B2%D0%B5%D0%B6%D0%B8%D0%BD,+%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/@55.4410412,65.3174925,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc34642546e9:0xae4bbbd1eb170ad7!8m2!3d55.4410412!4d65.3200728!16s%2Fg%2F11fy4hdt5s?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Станционная ул., 14, Курган, Курганская обл., Россия, 640000",
+        "googleRating": 4.8,
+        "googleReviewCount": 13,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0+%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9+%D0%9D%D0%B5%D0%B2%D0%B5%D0%B6%D0%B8%D0%BD,+%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/@55.4410412,65.3174925,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc34642546e9:0xae4bbbd1eb170ad7!8m2!3d55.4410412!4d65.3200728!16s%2Fg%2F11fy4hdt5s?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Основателю города"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-552483693": {
+      "patch": {
+        "name": "Паровоз ФД20-2697, Памятник истории",
+        "lat": 55.4409557,
+        "lon": 65.3172467,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7+%D0%A4%D0%9420-2697,+%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8/@55.4409557,65.3146664,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc3377c58a35:0x3618af0dc7ad3f51!8m2!3d55.4409557!4d65.3172467!16s%2Fg%2F11dxblrzg6?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "пл. Собанина, 1,Курган, Курганская обл., 640003, Курган, Курганская обл., Россия, 640003",
+        "googleRating": 4.9,
+        "googleReviewCount": 8,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7+%D0%A4%D0%9420-2697,+%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8/@55.4409557,65.3146664,17z/data=!3m1!4b1!4m6!3m5!1s0x43b7bc3377c58a35:0x3618af0dc7ad3f51!8m2!3d55.4409557!4d65.3172467!16s%2Fg%2F11dxblrzg6?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "aliases": [
+          "Паровоз ФЭД"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-864040582": {
+      "patch": {
+        "name": "Правительство Курганской области",
+        "lat": 55.440213,
+        "lon": 65.342234,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE+%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9+%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8/@55.440213,65.3396537,17z/data=!3m2!4b1!5s0x43b7bc4f1f9d8a49:0x7d678762f0f559b4!4m6!3m5!1s0x43b7bdb30bdbe3c9:0xf31038f4f6cb9dd5!8m2!3d55.440213!4d65.342234!16s%2Fg%2F1ptxr8g8l?authuser=0&hl=ru&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Гоголя, 56, Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 352 242-92-36",
+        "website": "https://kurganobl.ru/",
+        "googleRating": 3.4,
+        "googleReviewCount": 9,
+        "aliases": [
+          "Правительство Курганской области"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-relation-3175505": {
+      "patch": {
+        "name": "Парк Победы",
+        "lat": 55.4341444,
+        "lon": 65.3184652,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D1%80%D0%BA+%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B/data=!4m7!3m6!1s0x43b7bc304249b997:0x8ce043caa62b7c0c!8m2!3d55.4341444!4d65.3184652!16s%2Fg%2F1hd_n5kw5!19sChIJl7lJQjC8t0MRDHwrpspD4Iw?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640000",
+        "phone": "+7 963 279-14-19",
+        "googleRating": 4.5,
+        "googleReviewCount": 1007,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D1%80%D0%BA+%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B/data=!4m7!3m6!1s0x43b7bc304249b997:0x8ce043caa62b7c0c!8m2!3d55.4341444!4d65.3184652!16s%2Fg%2F1hd_n5kw5!19sChIJl7lJQjC8t0MRDHwrpspD4Iw?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Парк Победы"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-235881388": {
+      "patch": {
+        "name": "Городской сад",
+        "lat": 55.4389385,
+        "lon": 65.3442463,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D1%81%D0%B0%D0%B4/data=!4m7!3m6!1s0x43b7bc4f6b235235:0xef248db8c2923020!8m2!3d55.4389385!4d65.3442463!16s%2Fg%2F125_c93x2!19sChIJNVIja0-8t0MRIDCSwriNJO8?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "Курган, Курганская обл., Россия, 640002",
+        "googleRating": 4.2,
+        "googleReviewCount": 2267,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D1%81%D0%B0%D0%B4/data=!4m7!3m6!1s0x43b7bc4f6b235235:0xef248db8c2923020!8m2!3d55.4389385!4d65.3442463!16s%2Fg%2F125_c93x2!19sChIJNVIja0-8t0MRIDCSwriNJO8?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Городской Сад"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    },
+    "osm-way-73490512": {
+      "patch": {
+        "name": "Дом декабриста А.Е. Розена",
+        "lat": 55.4355264,
+        "lon": 65.3462554,
+        "googleMapsUrl": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%B0+%D0%90.%D0%95.+%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B0/data=!4m7!3m6!1s0x43b7bc45cc7b3baf:0x2555315563761b20!8m2!3d55.4355264!4d65.3462554!16s%2Fg%2F11g8656vqh!19sChIJrzt7zEW8t0MRIBt2Y1UxVSU?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "googleCheckedAt": "2026-10-05",
+        "address": "ул. Советская, 67, Курган, Курганская обл., Россия, 640000",
+        "website": "https://kurgan.pro/okn/n004/",
+        "googleRating": 4.6,
+        "googleReviewCount": 18,
+        "openingHours": "24/7",
+        "hoursSource": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%B0+%D0%90.%D0%95.+%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B0/data=!4m7!3m6!1s0x43b7bc45cc7b3baf:0x2555315563761b20!8m2!3d55.4355264!4d65.3462554!16s%2Fg%2F11g8656vqh!19sChIJrzt7zEW8t0MRIBt2Y1UxVSU?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+        "aliases": [
+          "Детская школа искусств №1"
+        ]
+      },
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "website",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "reason": "Сверено с видимой карточкой Google Maps; источник и дата сохранены"
+    }
+  },
+  "places": [
+    {
+      "id": "google-0xf4a2a49b56777e66",
+      "name": "Музей-экспозиция \"Аллея Славы\"",
+      "lat": 55.4399141,
+      "lon": 65.3374575,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F+%22%D0%90%D0%BB%D0%BB%D0%B5%D1%8F+%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B%22/data=!4m7!3m6!1s0x43b7bc4922dd8091:0xf4a2a49b56777e66!8m2!3d55.4399141!4d65.3374575!16s%2Fg%2F11c2nz4dqn!19sChIJkYDdIkm8t0MRZn53VpukovQ?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ул. Пушкина, 106, Курган, Курганская обл., Россия, 640000",
+      "phone": "+7 352 242-58-21",
+      "website": "https://dt45.ru/pobeda",
+      "googleRating": 4.7,
+      "googleReviewCount": 3,
+      "category": "Музей",
+      "minutes": 7,
+      "priority": 8,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "phone",
+        "website",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0xa4d93f9a5c12d180",
+      "name": "Курган, Стела",
+      "lat": 55.5017839,
+      "lon": 65.2517382,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD,+%D0%A1%D1%82%D0%B5%D0%BB%D0%B0/data=!4m7!3m6!1s0x43b7966d3eae7c19:0xa4d93f9a5c12d180!8m2!3d55.5017839!4d65.2517382!16s%2Fg%2F11c1tyfg51!19sChIJGXyuPm2Wt0MRgNESXJo_2aQ?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "Курган, Курганская обл., Россия, 640023",
+      "googleRating": 4.5,
+      "googleReviewCount": 114,
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x4f9f1ba1fd0f37a1",
+      "name": "Фонтан в городском саду",
+      "lat": 55.4401572,
+      "lon": 65.3456659,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD+%D0%B2+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%BC+%D1%81%D0%B0%D0%B4%D1%83/data=!4m7!3m6!1s0x43b7bc4fa5cf015d:0x4f9f1ba1fd0f37a1!8m2!3d55.4401572!4d65.3456659!16s%2Fg%2F11b769bq14!19sChIJXQHPpU-8t0MRoTcP_aEbn08?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "Курган, Курганская обл., Россия, 640000",
+      "googleRating": 4.1,
+      "googleReviewCount": 15,
+      "openingHours": "24/7",
+      "hoursSource": "https://www.google.com/maps/place/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD+%D0%B2+%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%BC+%D1%81%D0%B0%D0%B4%D1%83/data=!4m7!3m6!1s0x43b7bc4fa5cf015d:0x4f9f1ba1fd0f37a1!8m2!3d55.4401572!4d65.3456659!16s%2Fg%2F11b769bq14!19sChIJXQHPpU-8t0MRoTcP_aEbn08?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x28afbabda964b89",
+      "name": "Памятник Павлу Верещагину",
+      "lat": 55.484475,
+      "lon": 65.330855,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B0%D0%B2%D0%BB%D1%83+%D0%92%D0%B5%D1%80%D0%B5%D1%89%D0%B0%D0%B3%D0%B8%D0%BD%D1%83/data=!4m7!3m6!1s0x43b7bd78503a4001:0x28afbabda964b89!8m2!3d55.484475!4d65.330855!16s%2Fg%2F11f4j45w1k!19sChIJAUA6UHi9t0MRiUuW2qv7igI?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ул. Бурова-Петрова, 132, Курган, Курганская обл., Россия, 640000",
+      "googleRating": 5.0,
+      "googleReviewCount": 3,
+      "openingHours": "24/7",
+      "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B0%D0%B2%D0%BB%D1%83+%D0%92%D0%B5%D1%80%D0%B5%D1%89%D0%B0%D0%B3%D0%B8%D0%BD%D1%83/data=!4m7!3m6!1s0x43b7bd78503a4001:0x28afbabda964b89!8m2!3d55.484475!4d65.330855!16s%2Fg%2F11f4j45w1k!19sChIJAUA6UHi9t0MRiUuW2qv7igI?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x345255e6e82f87e0",
+      "name": "Курган 45, Стела",
+      "lat": 55.435234,
+      "lon": 65.3561227,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD+45,+%D0%A1%D1%82%D0%B5%D0%BB%D0%B0/data=!4m7!3m6!1s0x43b7bd0235ba266f:0x345255e6e82f87e0!8m2!3d55.435234!4d65.3561227!16s%2Fg%2F11js4c8m9_!19sChIJbya6NQK9t0MR4Icv6OZVUjQ?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ш. Тюнина, 316, Курган, Курганская обл., Россия, 640000",
+      "googleRating": 5.0,
+      "googleReviewCount": 2,
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x40973fd3fbb16ddf",
+      "name": "Журавли",
+      "lat": 55.4341884,
+      "lon": 65.3541134,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8/data=!4m7!3m6!1s0x43b7bd128f467251:0x40973fd3fbb16ddf!8m2!3d55.4341884!4d65.3541134!16s%2Fg%2F11q8wjgvrt!19sChIJUXJGjxK9t0MR322x-9M_l0A?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ул. Климова, 78, Курган, Курганская обл., Россия, 640000",
+      "googleRating": 5.0,
+      "googleReviewCount": 2,
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x8f0664092ed601e1",
+      "name": "Саблезубый тигр",
+      "lat": 55.4295855,
+      "lon": 65.3471978,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%A1%D0%B0%D0%B1%D0%BB%D0%B5%D0%B7%D1%83%D0%B1%D1%8B%D0%B9+%D1%82%D0%B8%D0%B3%D1%80/data=!4m7!3m6!1s0x43b7bdfee580e09d:0x8f0664092ed601e1!8m2!3d55.4295855!4d65.3471978!16s%2Fg%2F11ny0tq3wh!19sChIJneCA5f69t0MR4QHWLglkBo8?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ул. Томина, 12, Курган, Курганская обл., Россия, 640000",
+      "googleRating": 5.0,
+      "googleReviewCount": 1,
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0xdafc60fc400a7b65",
+      "name": "Лошадь",
+      "lat": 55.4290376,
+      "lon": 65.345989,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9B%D0%BE%D1%88%D0%B0%D0%B4%D1%8C/data=!4m7!3m6!1s0x43b7bd6d61ba9469:0xdafc60fc400a7b65!8m2!3d55.4290376!4d65.345989!16s%2Fg%2F11nxsl1khc!19sChIJaZS6YW29t0MRZXsKQPxg_No?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ул. Кирова, 14, Курган, Курганская обл., Россия, 640000",
+      "googleRating": 4.0,
+      "googleReviewCount": 2,
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0xad770285d1f159d8",
+      "name": "Ландшафтный парк",
+      "lat": 55.4583116,
+      "lon": 65.2832256,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9B%D0%B0%D0%BD%D0%B4%D1%88%D0%B0%D1%84%D1%82%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%BA/data=!4m7!3m6!1s0x43b7bdddc4000001:0xad770285d1f159d8!8m2!3d55.4583116!4d65.2832256!16s%2Fg%2F11x_d6hns_!19sChIJAQAAxN29t0MR2Fnx0YUCd60?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "просп. Первомайский, 1, Курган, Курганская обл., Россия, 640023",
+      "googleRating": 4.0,
+      "googleReviewCount": 1,
+      "category": "Парк",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0xce0fede124a79b04",
+      "name": "Парк 9 Мая",
+      "lat": 55.4344679,
+      "lon": 65.3095558,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D1%80%D0%BA+9+%D0%9C%D0%B0%D1%8F/data=!4m7!3m6!1s0x43b7bdd7d7bc5e75:0xce0fede124a79b04!8m2!3d55.4344679!4d65.3095558!16s%2Fg%2F11ffkwvxtw!19sChIJdV6819e9t0MRBJunJOHtD84?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "Курган, Курганская обл., Россия, 640000",
+      "googleRating": 5.0,
+      "googleReviewCount": 1,
+      "category": "Парк",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x25ac08303c5faf76",
+      "name": "Остров Кит",
+      "lat": 55.4259879,
+      "lon": 65.3130508,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2+%D0%9A%D0%B8%D1%82/data=!4m7!3m6!1s0x43b7bd8d1a0ea215:0x25ac08303c5faf76!8m2!3d55.4259879!4d65.3130508!16s%2Fg%2F11h6tj030n!19sChIJFaIOGo29t0MRdq9fPDAIrCU?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "6-я Больничная ул., 4, Курган, Курганская обл., Россия, 640000",
+      "googleRating": 5.0,
+      "googleReviewCount": 4,
+      "category": "Парк",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0xe9d6f7dfd595c91f",
+      "name": "Памятник Д.Е. Пичугину",
+      "lat": 55.444523,
+      "lon": 65.3436701,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%94.%D0%95.+%D0%9F%D0%B8%D1%87%D1%83%D0%B3%D0%B8%D0%BD%D1%83/data=!4m7!3m6!1s0x43b7bc4de8e05ecb:0xe9d6f7dfd595c91f!8m2!3d55.444523!4d65.3436701!16s%2Fg%2F11c71gthgf!19sChIJy17g6E28t0MRH8mV1d_31uk?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "ул. Коли Мяготина, 134, Курган, Курганская обл., Россия, 640002",
+      "googleRating": 4.5,
+      "googleReviewCount": 136,
+      "openingHours": "24/7",
+      "hoursSource": "https://www.google.com/maps/place/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%94.%D0%95.+%D0%9F%D0%B8%D1%87%D1%83%D0%B3%D0%B8%D0%BD%D1%83/data=!4m7!3m6!1s0x43b7bc4de8e05ecb:0xe9d6f7dfd595c91f!8m2!3d55.444523!4d65.3436701!16s%2Fg%2F11c71gthgf!19sChIJy17g6E28t0MRH8mV1d_31uk?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "category": "Памятник",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount",
+        "openingHours",
+        "hoursSource"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    },
+    {
+      "id": "google-0x7018eefff542299d",
+      "name": "Троицкая площадь",
+      "lat": 55.4366278,
+      "lon": 65.3540726,
+      "googleMapsUrl": "https://www.google.com/maps/place/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C/data=!4m7!3m6!1s0x43b7bd35c0a8030f:0x7018eefff542299d!8m2!3d55.4366278!4d65.3540726!16s%2Fg%2F11p6v3hyz2!19sChIJDwOowDW9t0MRnSlC9f_uGHA?authuser=0&hl=ru&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "googleCheckedAt": "2026-10-05",
+      "address": "Курган, Курганская обл., Россия, 640002",
+      "googleRating": 4.5,
+      "googleReviewCount": 2,
+      "category": "Площадь",
+      "minutes": 5,
+      "priority": 5,
+      "checkedAt": "2026-10-05",
+      "verifiedFields": [
+        "name",
+        "lat",
+        "lon",
+        "googleMapsUrl",
+        "googleCheckedAt",
+        "address",
+        "googleRating",
+        "googleReviewCount"
+      ],
+      "dataSource": "Google Maps",
+      "dataUpdatedAt": "2026-10-05"
+    }
+  ]
+}

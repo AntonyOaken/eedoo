@@ -1,0 +1,88 @@
+{
+  "release": "2026-09-23.1",
+  "comparedAt": "2026-10-05T17:26:52.873486+00:00",
+  "automaticImport": false,
+  "scope": "Central pilot areas; all business categories were scanned. Relevant candidates are filtered separately. Matching is heuristic, not verified identity.",
+  "cities": {
+    "spb": {
+      "bounds": [
+        59.925,
+        30.295,
+        59.946,
+        30.34
+      ],
+      "osmCount": 1072,
+      "allOvertureCategoriesCount": 4980,
+      "probableMatches": 270,
+      "relevantUnmatchedCandidates": 1102,
+      "highConfidenceCandidatesToReview": 388,
+      "candidateCategories": {
+        "historic_site": 150,
+        "monument": 38,
+        "museum": 92,
+        "park": 22,
+        "cafe": 121,
+        "art_gallery": 56,
+        "coffee_shop": 118,
+        "restaurant": 415,
+        "garden": 2,
+        "casual_eatery": 62,
+        "fast_food_restaurant": 26
+      },
+      "note": "Different naming languages and duplicate provider records can create false unmatched candidates."
+    },
+    "kurgan": {
+      "bounds": [
+        55.431,
+        65.327,
+        55.451,
+        65.362
+      ],
+      "osmCount": 136,
+      "allOvertureCategoriesCount": 453,
+      "probableMatches": 17,
+      "relevantUnmatchedCandidates": 73,
+      "highConfidenceCandidatesToReview": 30,
+      "candidateCategories": {
+        "cafe": 10,
+        "historic_site": 9,
+        "restaurant": 28,
+        "coffee_shop": 11,
+        "casual_eatery": 4,
+        "museum": 2,
+        "park": 4,
+        "fast_food_restaurant": 2,
+        "monument": 3
+      },
+      "note": "Different naming languages and duplicate provider records can create false unmatched candidates."
+    },
+    "phuket": {
+      "bounds": [
+        7.875,
+        98.378,
+        7.895,
+        98.405
+      ],
+      "osmCount": 307,
+      "allOvertureCategoriesCount": 5856,
+      "probableMatches": 94,
+      "relevantUnmatchedCandidates": 1940,
+      "highConfidenceCandidatesToReview": 745,
+      "candidateCategories": {
+        "casual_eatery": 152,
+        "restaurant": 1244,
+        "cafe": 174,
+        "coffee_shop": 177,
+        "park": 17,
+        "historic_site": 86,
+        "fast_food_restaurant": 48,
+        "art_gallery": 12,
+        "beach": 11,
+        "museum": 15,
+        "monument": 3,
+        "place_of_worship": 1
+      },
+      "note": "Different naming languages and duplicate provider records can create false unmatched candidates."
+    }
+  }
+}
