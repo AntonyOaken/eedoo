@@ -6,6 +6,8 @@
 
 Node.js 24, pnpm 11.25.0, Python 3.12+ с Pillow. `pnpm install --frozen-lockfile`, затем `pnpm dev`. Для разработки без PostgreSQL: `pnpm catalog:export`, затем `CATALOG_BACKEND=seed pnpm dev`; этот режим запрещён в production без специального разрешения. Каталог не входит в клиентский JavaScript. Граф улиц выбранного города загружается по требованию в Web Worker; основной и альтернативные локальные маршруты вычисляются там.
 
+Автоматическая первоначальная установка пустого Ubuntu/Debian VPS: [инструкция](docs/vps-bootstrap.md), сценарий `ops/bootstrap-vps.sh`.
+
 ## Перенос на VPS
 
 1. Скопировать `.env.example` в `.env`, заменить пароли, согласовать `DATABASE_URL` с `POSTGRES_PASSWORD`, настроить `APP_ORIGIN`, собственный/договорной `TILE_URL`, S3 и публичный URL бакета. S3 ключи доступны только серверу; публичный доступ нужен объектам, а не всему управлению бакетом. `VALHALLA_URL` и `PHOTON_URL` задают заменяемые сервисы. Без Valhalla используется локальный worker, без Photon поиск ограничен собственным каталогом.
