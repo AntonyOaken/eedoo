@@ -22,7 +22,7 @@ printf 'OS: %s\nArchitecture: %s\n' "$PRETTY_NAME" "$(uname -m)"
 awk '/MemTotal/ {printf "RAM: %.1f GiB\n", $2/1024/1024}' /proc/meminfo
 df -h /
 if [[ ${1:-} == --dry-run ]]; then
-  printf 'Plan: install Docker Engine and Compose from the official apt repository; clone %s into %s; generate application secrets; migrate and import PostgreSQL catalog; start preview on 127.0.0.1:8080; check readiness; create DB backup.\n' "$repo_url" "$app_dir"
+  printf 'Plan: install Docker Engine and Compose from the official apt repository; clone %s into %s; generate application secrets; download and verify prebuilt Docker images; migrate and import PostgreSQL catalog; start preview on 127.0.0.1:8080; check readiness; create DB backup.\n' "$repo_url" "$app_dir"
   exit 0
 fi
 if [[ $EUID -ne 0 ]]; then
@@ -32,6 +32,13 @@ fi
 mkdir -p /var/log
 exec > >(tee -a /var/log/poputi-bootstrap.log) 2>&1
 trap 'printf "Installation failed at line %s. Log: /var/log/poputi-bootstrap.log\n" "$LINENO" >&2' ERR
+printf 'Memory and recent OOM diagnostics\n'
+if command -v free >/dev/null; then free -h; fi
+journalctl -k --since '-30 min' --no-pager 2>/dev/null | grep -Ei 'out of memory|oom-kill|killed process' || true
+if [[ $(uname -m) != x86_64 ]]; then
+  printf 'These prebuilt images require x86_64. Send the architecture printed above.\n' >&2
+  exit 1
+fi
 printf '[1/7] System dependencies\n'
 apt-get update
 apt-get install -y ca-certificates curl git openssl python3
@@ -112,16 +119,39 @@ if ! grep -q '^POSTGRES_PASSWORD=' .env || grep -q 'CHANGE_ME' .env; then
 fi
 mkdir -p work public/photos
 chmod 755 work public public/photos
-printf '[4/7] Build application and tools\n'
+printf '[4/7] Download verified prebuilt application and tools images\n'
+image_tag=$(git rev-parse HEAD)
+[[ "$image_tag" =~ ^[0-9a-f]{40}$ ]] || { printf 'Invalid source commit.\n' >&2; exit 1; }
+image_dir="$app_dir/work/deploy/$image_tag"
+mkdir -p "$image_dir"
+release_url="https://github.com/AntonyOaken/eedoo/releases/download/vps-$image_tag"
+if ! curl --fail --show-error --location --retry 3 --retry-delay 3 "$release_url/poputi-images.tar.gz.sha256" --output "$image_dir/poputi-images.tar.gz.sha256"; then
+  printf 'Prebuilt images for commit %s are not published yet. Check GitHub Actions, then rerun this installer. No VPS build was started.\n' "$image_tag" >&2
+  exit 1
+fi
+if ! (cd "$image_dir" && sha256sum --check poputi-images.tar.gz.sha256 >/dev/null 2>&1); then
+  curl --fail --show-error --location --retry 3 --retry-delay 3 "$release_url/poputi-images.tar.gz" --output "$image_dir/poputi-images.tar.gz.partial"
+  mv "$image_dir/poputi-images.tar.gz.partial" "$image_dir/poputi-images.tar.gz"
+fi
+(cd "$image_dir" && sha256sum --check poputi-images.tar.gz.sha256)
+docker load --input "$image_dir/poputi-images.tar.gz"
+docker image inspect "poputi-app:$image_tag" >/dev/null
+docker image inspect "poputi-tools:$image_tag" >/dev/null
+python3 - "$image_tag" <<'CONFIG'
+from pathlib import Path
+import os,sys
+p=Path('.env');lines=[line for line in p.read_text().splitlines() if not line.startswith('POPUTI_IMAGE_TAG=')]
+lines.append('POPUTI_IMAGE_TAG='+sys.argv[1])
+tmp=Path('.env.image-tmp');tmp.write_text('\n'.join(lines)+'\n');tmp.chmod(0o600);os.replace(tmp,p)
+CONFIG
 docker compose config --quiet
-docker compose --profile tools build tools app
 printf '[5/7] Database migration and catalog import\n'
 docker compose up -d --wait --wait-timeout 120 db redis
 docker compose --profile tools run --rm tools pnpm db:migrate
 docker compose --profile tools run --rm tools pnpm catalog:export
 docker compose --profile tools run --rm tools pnpm catalog:import work/catalog.json
 printf '[6/7] Start private preview\n'
-docker compose up -d app nginx
+docker compose up -d --no-build app nginx
 ready=0
 for attempt in $(seq 1 60); do
   if curl --fail --silent --max-time 3 http://127.0.0.1:8080/api/health/ready >/dev/null; then

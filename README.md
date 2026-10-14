@@ -6,15 +6,15 @@
 
 Node.js 24, pnpm 11.25.0, Python 3.12+ с Pillow. `pnpm install --frozen-lockfile`, затем `pnpm dev`. Для разработки без PostgreSQL: `pnpm catalog:export`, затем `CATALOG_BACKEND=seed pnpm dev`; этот режим запрещён в production без специального разрешения. Каталог не входит в клиентский JavaScript. Граф улиц выбранного города загружается по требованию в Web Worker; основной и альтернативные локальные маршруты вычисляются там.
 
-Автоматическая первоначальная установка пустого Ubuntu/Debian VPS: [инструкция](docs/vps-bootstrap.md), сценарий `ops/bootstrap-vps.sh`.
+Автоматическая первоначальная установка пустого Ubuntu/Debian VPS, x86_64, с готовыми образами из GitHub Actions: [инструкция](docs/vps-bootstrap.md), сценарий `ops/bootstrap-vps.sh`.
 
 ## Перенос на VPS
 
 1. Скопировать `.env.example` в `.env`, заменить пароли, согласовать `DATABASE_URL` с `POSTGRES_PASSWORD`, настроить `APP_ORIGIN`, собственный/договорной `TILE_URL`, S3 и публичный URL бакета. S3 ключи доступны только серверу; публичный доступ нужен объектам, а не всему управлению бакетом. `VALHALLA_URL` и `PHOTON_URL` задают заменяемые сервисы. Без Valhalla используется локальный worker, без Photon поиск ограничен собственным каталогом.
-2. `docker compose up -d db redis`; `docker compose --profile tools run --rm tools pnpm db:migrate`.
+2. Использовать автоматическую установку готовых образов согласно инструкции выше. Для ручной локальной сборки: `docker compose -f compose.yaml -f compose.build.yaml --profile tools build app tools`; затем `docker compose up -d db redis`; `docker compose --profile tools run --rm tools pnpm db:migrate`.
 3. `docker compose --profile tools run --rm tools pnpm catalog:export`; `docker compose --profile tools run --rm tools pnpm catalog:import work/catalog.json`.
 4. Восстановить `public/photos` из архива данных; `docker compose --profile tools run --rm tools pnpm media:upload`.
-5. `docker compose up -d --build app nginx`. По умолчанию только `127.0.0.1:8080`: доступ проверяют SSH-туннелем, без публичного открытия. Когда появятся VPS и домен, добавить HTTPS перед Nginx и установить внешний `APP_ORIGIN`; до этого геолокация на внешнем HTTP недоступна.
+5. `docker compose up -d --no-build app nginx`. По умолчанию только `127.0.0.1:8080`: доступ проверяют SSH-туннелем, без публичного открытия. Когда появятся VPS и домен, добавить HTTPS перед Nginx и установить внешний `APP_ORIGIN`; до этого геолокация на внешнем HTTP недоступна.
 
 В сборке контейнера нет `public/photos`; карточки получают ссылки из таблицы `media_objects`. Каталог в PostgreSQL обновляется независимо от приложения. Исходные JSON сохранены для первого экспорта и восстановления; изменение импортёра для записи произвольных новых источников не означает, что продолжается браузерный сбор данных. `work` содержит снимки и журнал и монтируется отдельно.
 

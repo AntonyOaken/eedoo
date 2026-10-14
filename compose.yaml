@@ -19,7 +19,8 @@ services:
     restart: unless-stopped
     networks: [backend]
   app:
-    build: {context: ., target: runner}
+    image: poputi-app:${POPUTI_IMAGE_TAG:-local}
+    pull_policy: never
     env_file: .env
     depends_on:
       db: {condition: service_healthy}
@@ -33,7 +34,8 @@ services:
       retries: 3
     networks: [backend]
   tools:
-    build: {context: ., target: tools}
+    image: poputi-tools:${POPUTI_IMAGE_TAG:-local}
+    pull_policy: never
     env_file: .env
     profiles: [tools]
     volumes: ["./work:/app/work", "./public/photos:/app/public/photos:ro"]

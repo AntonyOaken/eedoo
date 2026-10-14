@@ -1,0 +1,6 @@
+# Explicit local builds for development or a sufficiently provisioned build host.
+services:
+  app:
+    build: {context: ., target: runner}
+  tools:
+    build: {context: ., target: tools}

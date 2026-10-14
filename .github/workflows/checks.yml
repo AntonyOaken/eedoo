@@ -1,5 +1,7 @@
 name: checks
 on: [push, pull_request]
+permissions:
+  contents: read
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -28,4 +30,46 @@ jobs:
       - run: pip install Pillow
       - run: python -m unittest discover -s tests -p '*_import_test.py'
       - run: pnpm db:migrate && pnpm test:integration
+      - run: pnpm catalog:import work/catalog.json
       - run: pnpm build
+
+  vps-images:
+    needs: verify
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build app and tools images sequentially
+        run: |
+          docker build --target runner --label "org.opencontainers.image.source=https://github.com/$GITHUB_REPOSITORY" --label "org.opencontainers.image.revision=$GITHUB_SHA" -t "poputi-app:$GITHUB_SHA" .
+          docker build --target tools --label "org.opencontainers.image.source=https://github.com/$GITHUB_REPOSITORY" --label "org.opencontainers.image.revision=$GITHUB_SHA" -t "poputi-tools:$GITHUB_SHA" .
+      - name: Check actual app container and tools export
+        run: |
+          docker run -d --name poputi-image-check -p 127.0.0.1:33000:3000 "poputi-app:$GITHUB_SHA"
+          ready=0
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent --max-time 3 http://127.0.0.1:33000/api/health/live >/dev/null; then ready=1; break; fi
+            sleep 2
+          done
+          if [ "$ready" != 1 ]; then docker logs poputi-image-check; exit 1; fi
+          curl --fail --silent --max-time 10 http://127.0.0.1:33000/ >/dev/null
+          docker stop poputi-image-check
+          docker run --rm "poputi-tools:$GITHUB_SHA" pnpm catalog:export
+      - name: Package images and checksum
+        run: |
+          docker save "poputi-app:$GITHUB_SHA" "poputi-tools:$GITHUB_SHA" | gzip -1 > poputi-images.tar.gz
+          sha256sum poputi-images.tar.gz > poputi-images.tar.gz.sha256
+      - name: Publish public download for this source commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="vps-$GITHUB_SHA"
+          printf 'Prebuilt linux/amd64 images for source commit %s. Download and verify the SHA-256 checksum before docker load. Runtime secrets and photos are excluded.\n' "$GITHUB_SHA" > release-notes.txt
+          if gh release view "$tag" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            gh release upload "$tag" poputi-images.tar.gz poputi-images.tar.gz.sha256 --repo "$GITHUB_REPOSITORY" --clobber
+          else
+            gh release create "$tag" poputi-images.tar.gz poputi-images.tar.gz.sha256 --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" --title "VPS images ${GITHUB_SHA:0:12}" --notes-file release-notes.txt --latest=false
+          fi
