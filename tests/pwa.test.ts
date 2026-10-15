@@ -27,3 +27,33 @@ test('install icons exist with declared PNG dimensions', () => {
     assert.equal(`${png.readUInt32BE(16)}x${png.readUInt32BE(20)}`, icon.sizes);
   }
 });
+
+test('offline upgrade deletes only EEDOO-owned obsolete caches', async () => {
+  const handlers: Record<string, (event: any) => void> = {};
+  const deleted: string[] = [];
+  let claimed = false;
+  vm.runInNewContext(readFileSync('public/sw.js', 'utf8'), {
+    self: {addEventListener: (name: string, handler: any) => handlers[name] = handler,
+      clients: {claim: async () => {claimed = true;}}},
+    caches: {keys: async () => ['poputi-offline-v1', 'eedoo-offline-v1', 'eedoo-offline-v2', 'unrelated-app-cache'],
+      delete: async (key: string) => {deleted.push(key);}},
+  });
+  let completed: Promise<void> | undefined;
+  handlers.activate({waitUntil: (value: Promise<void>) => completed = value});
+  await completed;
+  assert.deepEqual(deleted.sort(), ['eedoo-offline-v1', 'poputi-offline-v1']);
+  assert.equal(claimed, true);
+});
+
+test('installed theme, launch photo and local font agree with the selected UI', () => {
+  const manifest = JSON.parse(readFileSync('public/manifest.webmanifest', 'utf8'));
+  const css = readFileSync('app/globals.css', 'utf8').toLowerCase();
+  const component = readFileSync('components/app-experience.tsx', 'utf8');
+  assert.equal(manifest.theme_color, '#315e7d');
+  assert.match(css, /--primary:\s*#315e7d/);
+  assert.match(css, /\.poi-hours-open\{color:#176847;background:#e1f2e8/);
+  for (const match of component.matchAll(/(?:src|href)="(\/launch\/[^"]+)"/g)) {
+    assert.ok(readFileSync('public' + match[1]).byteLength > 39042);
+  }
+  assert.ok(readFileSync('public/fonts/outfit-medium.ttf').byteLength > 10000);
+});

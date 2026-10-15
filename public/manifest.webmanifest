@@ -4,8 +4,8 @@
   "lang": "ru",
   "start_url": "/",
   "display": "fullscreen",
-  "background_color": "#147b73",
-  "theme_color": "#147b73",
+  "background_color": "#064e7c",
+  "theme_color": "#315e7d",
   "icons": [
     {
       "src": "/icons/icon-192.png",
