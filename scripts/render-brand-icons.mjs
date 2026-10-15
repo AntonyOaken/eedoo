@@ -8,6 +8,9 @@ for (const size of [180, 192, 512]) {
   await sharp(opaque).resize(size, size).png().toFile(new URL(`../public/icons/eedoo-loop-${size}.png`, import.meta.url).pathname);
 }
 await writeFile(new URL('../public/icons/eedoo-loop.svg', import.meta.url), source.replace('rx="128"', 'rx="0"'));
+for (const name of ['eedoo-apple-touch-icon-v2.png', 'apple-touch-icon.png', 'apple-touch-icon-precomposed.png']) {
+  await writeFile(new URL(`../public/${name}`, import.meta.url), await readFile(new URL('../public/icons/eedoo-loop-180.png', import.meta.url)));
+}
 // Legacy URLs remain valid for existing installations, with the same new mark.
 for (const size of [180, 192, 512]) {
   await writeFile(new URL(`../public/icons/icon-${size}.png`, import.meta.url), await readFile(new URL(`../public/icons/eedoo-loop-${size}.png`, import.meta.url)));
