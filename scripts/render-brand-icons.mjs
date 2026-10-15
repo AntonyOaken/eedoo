@@ -8,6 +8,28 @@ for (const size of [180, 192, 512]) {
   await sharp(opaque).resize(size, size).png().toFile(new URL(`../public/icons/eedoo-loop-${size}.png`, import.meta.url).pathname);
 }
 await writeFile(new URL('../public/icons/eedoo-loop.svg', import.meta.url), source.replace('rx="128"', 'rx="0"'));
+// Raster favicon fallbacks are needed by browser UI that cannot decode SVG icons.
+for (const size of [16, 32, 48]) {
+  await sharp(opaque).resize(size, size).png().toFile(new URL(`../public/icons/eedoo-loop-${size}.png`, import.meta.url).pathname);
+}
+// ICO container with PNG frames; include a high-resolution frame for shortcuts.
+const frames = await Promise.all([16, 32, 48, 256].map(size => sharp(opaque).resize(size, size).png().toBuffer().then(data => ({size, data}))));
+const directory = Buffer.alloc(6 + 16 * frames.length);
+directory.writeUInt16LE(1, 2);
+directory.writeUInt16LE(frames.length, 4);
+let offset = directory.length;
+frames.forEach(({size, data}, index) => {
+  const entry = 6 + index * 16;
+  directory[entry] = size === 256 ? 0 : size;
+  directory[entry + 1] = size === 256 ? 0 : size;
+  directory.writeUInt16LE(1, entry + 4);
+  directory.writeUInt16LE(32, entry + 6);
+  directory.writeUInt32LE(data.length, entry + 8);
+  directory.writeUInt32LE(offset, entry + 12);
+  offset += data.length;
+});
+await writeFile(new URL('../public/favicon.ico', import.meta.url), Buffer.concat([directory, ...frames.map(frame => frame.data)]));
+await writeFile(new URL('../public/favicon.png', import.meta.url), await readFile(new URL('../public/icons/eedoo-loop-192.png', import.meta.url)));
 for (const name of ['eedoo-apple-touch-icon-v2.png', 'apple-touch-icon.png', 'apple-touch-icon-precomposed.png']) {
   await writeFile(new URL(`../public/${name}`, import.meta.url), await readFile(new URL('../public/icons/eedoo-loop-180.png', import.meta.url)));
 }
