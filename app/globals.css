@@ -139,3 +139,23 @@
 @media(max-width:1000px){.two-gis-export{left:16px;top:16px}}@media(max-width:700px){.two-gis-export{left:13px;top:13px;max-width:calc(100% - 72px)}.two-gis-open{padding:10px 12px}.map-place-filter{top:69px}}
 
 .two-gis-logo{display:block;width:24px;height:24px;flex-shrink:0}
+
+/* Installed app: edge-to-edge canvas with controls clear of screen cutouts. */
+html{background:#147b73}
+body{overscroll-behavior-y:none}
+.app-shell{padding-top:env(safe-area-inset-top,0px);padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px);background:#f6f8f8}
+button{touch-action:manipulation;transition:background-color 160ms ease,box-shadow 160ms ease,scale 160ms ease}
+button:active:not(:disabled){scale:.97}
+.planner{transition:transform 320ms cubic-bezier(.22,1,.36,1)}
+.result,.search-results,.city-list{animation:content-arrive 220ms ease-out}
+@keyframes content-arrive{from{opacity:0;translate:0 6px}to{opacity:1;translate:0 0}}
+.app-launch{position:fixed;inset:0;z-index:10000;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:18px;background:#147b73;color:#fff;font-family:system-ui;pointer-events:none}
+.app-launch strong{font-size:40px;letter-spacing:-1.5px}.app-launch span{font-size:15px;opacity:.8}
+.install-card{position:fixed;z-index:900;right:max(18px,env(safe-area-inset-right));top:calc(18px + env(safe-area-inset-top));width:min(310px,calc(100vw - 36px));padding:20px 40px 20px 20px;border:1px solid #dce8e3;border-radius:20px;background:#fff;box-shadow:0 10px 40px #193d3526;animation:content-arrive 220ms ease-out}
+.install-card strong{font-size:16px}.install-card p{font-size:13px;line-height:1.5;color:#58716b;margin:8px 0 12px}.install-card p svg{display:inline;vertical-align:middle}.install-dismiss{position:absolute;right:8px;top:8px;border:0;background:transparent;color:#58716b;padding:7px}.install-action{display:flex;align-items:center;gap:8px;background:#147b73;border:0;border-radius:10px;padding:10px 12px;color:#fff;font-size:13px}
+@media(max-width:700px){.workspace{height:calc(100dvh - 65px - env(safe-area-inset-top,0px))}.planner-scroll{scroll-behavior:smooth}.install-card{top:calc(76px + env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:min(290px,calc(100vw - 24px))}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+/* A blocked script must never leave a permanent splash over the page. */
+.app-launch{animation:launch-fallback 0s 5s forwards}
+@keyframes launch-fallback{to{visibility:hidden}}
+@media(prefers-reduced-motion:reduce){.app-launch{animation:launch-fallback 0s 5s forwards!important}}
