@@ -35,7 +35,7 @@ test('offline upgrade deletes only EEDOO-owned obsolete caches', async () => {
   vm.runInNewContext(readFileSync('public/sw.js', 'utf8'), {
     self: {addEventListener: (name: string, handler: any) => handlers[name] = handler,
       clients: {claim: async () => {claimed = true;}}},
-    caches: {keys: async () => ['poputi-offline-v1', 'eedoo-offline-v1', 'eedoo-offline-v2', 'unrelated-app-cache'],
+    caches: {keys: async () => ['poputi-offline-v1', 'eedoo-offline-v1', 'eedoo-offline-v3', 'unrelated-app-cache'],
       delete: async (key: string) => {deleted.push(key);}},
   });
   let completed: Promise<void> | undefined;

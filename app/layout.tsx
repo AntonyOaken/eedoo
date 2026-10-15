@@ -11,9 +11,9 @@ export const metadata: Metadata = {
   manifest: "/manifest.webmanifest",
   appleWebApp: { capable: true, title: "EEDOO", statusBarStyle: "black-translucent", startupImage: appleStartupImages },
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
-    apple: "/icons/icon-180.png",
+    icon: "/favicon.svg?v=loop-1",
+    shortcut: "/favicon.svg?v=loop-1",
+    apple: "/icons/eedoo-loop-180.png",
   },
 };
 
