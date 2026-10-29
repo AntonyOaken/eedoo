@@ -43,7 +43,7 @@ function CatalogueDetails({place}:{place:Place}){
 
 export function PlaceDetails({place,onSelect,googleEnabled=false}:{place:Place;onSelect:()=>void;googleEnabled?:boolean}){
  const [googleReady,setGoogleReady]=useState(false);
- return <>{googleEnabled&&<GooglePlaceCard place={place} onReady={setGoogleReady}/>}
+ return <><div className="place-details-scroll">{googleEnabled&&<GooglePlaceCard place={place} onReady={setGoogleReady}/>}
  {googleEnabled?<details className="catalogue-details" open={!googleReady}><summary>Сведения каталога · OpenStreetMap</summary><CatalogueDetails place={place}/></details>:<CatalogueDetails place={place}/>}
- <button className="build-btn" onClick={onSelect}>Выбрать финишем</button></>;
+ </div><div className="place-details-actions"><button className="build-btn" onClick={onSelect}>Выбрать финишем</button></div></>;
 }
