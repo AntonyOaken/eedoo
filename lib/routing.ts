@@ -1,9 +1,10 @@
 import {distance,type Place} from './places';
+import {buildScenicWalk} from './scenic-routing';
 import {placesForMode,isFoodPlace,isWalkStopAvailable,emptyModeNote,type WalkMode} from './walk-modes';
 export type RouteCalculator=(points:Place[])=>{shape:number[][];distance:number;walkingMinutes:number};
 export type AsyncRouteCalculator=(points:Place[])=>Promise<ReturnType<RouteCalculator>>;
 export type NearbyFood=Place & {distanceFromRoute:number};
-export type Walk = {shape: number[][]; distance: number; walkingMinutes: number; stopMinutes: number; stops: Place[]; extraMinutes: number; mode: WalkMode; nearbyFood?:NearbyFood[]; note?: string};
+export type Walk = {shape: number[][]; distance: number; walkingMinutes: number; stopMinutes: number; stops: Place[]; extraMinutes: number; mode: WalkMode; nearbyFood?:NearbyFood[]; note?: string; scenicBase?:ReturnType<RouteCalculator>};
 // Project landmarks onto every segment, rather than a straight line between endpoints.
 export function proximity(p:Place,shape:number[][]) {let best=Infinity,order=0;const cos=Math.cos(p.lat*Math.PI/180);for(let i=1;i<shape.length;i++){const a={lat:shape[i-1][0],lon:shape[i-1][1]},b={lat:shape[i][0],lon:shape[i][1]};const dx=(b.lon-a.lon)*cos,dy=b.lat-a.lat;const t=Math.max(0,Math.min(1,((p.lon-a.lon)*cos*dx+(p.lat-a.lat)*dy)/(dx*dx+dy*dy||1)));const d=distance(p,{lat:a.lat+dy*t,lon:a.lon+(b.lon-a.lon)*t});if(d<best){best=d;order=i+t;}}return {distance:best,order};}
 // Small map markers represent places on the streets of the selected route.
@@ -40,6 +41,7 @@ export function distributeStops(candidates:Candidate[],shape:number[][],count:nu
 export async function buildWalk(start:Place,end:Place,mode:WalkMode,calculate:RouteCalculator|AsyncRouteCalculator,catalog:Place[]):Promise<Walk> {
  const compute=calculate;
  const base=await compute([start,end]);
+ if(mode==='scenic')return buildScenicWalk(start,end,base,compute,catalog);
  if(mode==='food'){const nearbyFood=nearbyFoodAlongRoute(catalog,base.shape);return {...base,mode,stops:[],stopMinutes:0,extraMinutes:0,nearbyFood,...(!nearbyFood.length?{note:emptyModeNote(mode)}:{})};}
  const bounds=base.shape.reduce((b:number[],p:number[])=>[Math.min(b[0],p[0]),Math.min(b[1],p[1]),Math.max(b[2],p[0]),Math.max(b[3],p[1])],[90,180,-90,-180]);
  const candidates=placesForMode(catalog,mode).filter(p=>isWalkStopAvailable(p,mode)&&p.lat>bounds[0]-.006&&p.lat<bounds[2]+.006&&p.lon>bounds[1]-.013&&p.lon<bounds[3]+.013&&distance(p,start)>70&&distance(p,end)>100).map(p=>({p,...proximity(p,base.shape)}));

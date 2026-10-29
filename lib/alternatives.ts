@@ -3,6 +3,7 @@ import {placesForMode,isWalkStopAvailable} from './walk-modes';
 import type {CityId} from './cities';
 import type {RouteCalculator} from './routing';
 import {distributeStops,proximity,type Walk} from './routing';
+import {buildScenicWalk,scenicBudget} from './scenic-routing';
 
 export type RouteOption={id:string;title:string;walk:Walk;via:Place[]};
 export const primaryOption=(walk:Walk):RouteOption=>({id:'primary',title:'Основной маршрут',walk,via:[]});
@@ -31,6 +32,17 @@ export async function buildAlternativesWithRouter(start:Place,end:Place,primary:
  const catalog=placesForMode(source,primary.mode).filter(p=>isWalkStopAvailable(p,primary.mode));
  const options=[primaryOption(primary)];
  const add=(option:RouteOption,maxDistance:number)=>{if(option.walk.distance<=maxDistance&&options.every(existing=>distinct(option.walk,existing.walk)))options.push(option);};
+ if(primary.mode==='scenic'){
+  const base=primary.scenicBase||localRoute([start,end]);
+  const discouraged=new Set(primary.stops.map(p=>p.id));
+  for(let attempt=0;attempt<2;attempt++){
+   const walk=await buildScenicWalk(start,end,base,localRoute,catalog,discouraged);
+   const via=walk.stops.find(p=>!primary.stops.some(s=>s.id===p.id));
+   add({id:'scenic-'+attempt,title:via?'Через '+via.name:'Другой путь',walk,via:via?[via]:[]},scenicBudget(base.distance));
+   walk.stops.forEach(p=>discouraged.add(p.id));
+  }
+  return options;
+ }
  const mainIds=new Set(primary.stops.map(p=>p.id));
  const candidates=catalog.filter(p=>!mainIds.has(p.id)&&distance(p,start)>350&&distance(p,end)>350).map(p=>({p,...proximity(p,primary.shape)})).filter(c=>c.distance>180&&c.distance<(primary.mode==='photo'?500:1800)).sort((a,b)=>((b.p.priority||1)*100-b.distance/4)-((a.p.priority||1)*100-a.distance/4));
  // A bounded set keeps mobile calculation predictable; prefer landmarks over
