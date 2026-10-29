@@ -17,7 +17,7 @@ import {categoryMatches} from '@/lib/place-filter';
 import {primaryOption,type RouteOption} from '@/lib/alternatives';
 import {buildAlternatives} from '@/lib/worker-client';
 import {CITIES,getCity,inCity,cityAt,type CityId} from '@/lib/cities';
-import {getCatalog} from '@/lib/catalog';
+import {requestViewport,requestPlace} from '@/lib/catalog-client';
 
 declare global {interface Window {L:any} interface Document {modelContext?:any}}
 type Target='start'|'end';
@@ -30,7 +30,7 @@ const pin=(L:any,text:string,cls:string)=>L.divIcon({className:'',html:`<div cla
 export default function Home(){
  const [cityId,setCityId]=useState<CityId>('spb');
  const city=getCity(cityId),currentCity=useRef(city);currentCity.current=city;
- const catalog=useMemo(()=>getCatalog(cityId),[cityId]);
+ const [catalog,setCatalog]=useState<Place[]>([]);
  const [start,setStart]=useState<Place|null>(null),[end,setEnd]=useState<Place|null>(null);
  const [mode,setMode]=useState<Mode>('direct'),[walk,setWalk]=useState<Walk|null>(null);
  const [options,setOptions]=useState<RouteOption[]>([]),[selectedId,setSelectedId]=useState('primary');
@@ -44,6 +44,7 @@ export default function Home(){
  const [recent,setRecent]=useState<Place[]>([]),[detail,setDetail]=useState<Place|null>(null);
  const [mapPick,setMapPick]=useState<Target|null>('start'),[draft,setDraft]=useState<Place|null>(null);
  const [mapReady,setMapReady]=useState(false),[mapError,setMapError]=useState(''),[tileError,setTileError]=useState(false);
+ useEffect(()=>{if(!mapReady||!map.current)return;let controller:AbortController|undefined,timer:ReturnType<typeof setTimeout>;setCatalog([]);const load=()=>{clearTimeout(timer);controller?.abort();timer=setTimeout(()=>{const next=new AbortController();controller=next;const b=map.current.getBounds().pad(.12);void requestViewport(cityId,mode,[b.getSouth(),b.getWest(),b.getNorth(),b.getEast()],next.signal).then(setCatalog).catch(e=>{if(!next.signal.aborted)setError(e instanceof Error?e.message:'Не удалось загрузить места.');});},180);};load();map.current.on('moveend',load);return()=>{clearTimeout(timer);controller?.abort();map.current?.off('moveend',load);};},[cityId,mode,mapReady]);
  const [selectedCategories,setSelectedCategories]=useState<string[]>([]);
  const mapEl=useRef<HTMLDivElement>(null),map=useRef<any>(null),routeLayer=useRef<any>(null),interestLayer=useRef<any>(null),geoMarker=useRef<any>(null);
  const picking=useRef<Target|null>(null);picking.current=mapPick;
@@ -65,7 +66,7 @@ export default function Home(){
  const remember=(p:Place)=>{try{const key='eedoo-destinations-'+cityId;const previous=JSON.parse(localStorage.getItem(key)||'[]');const next=[p,...(Array.isArray(previous)?previous:[])].filter((row,i,all)=>all.findIndex(other=>other.id===row.id)===i).slice(0,5);localStorage.setItem(key,JSON.stringify(next));setRecent(next);}catch{}};
  useEffect(()=>{try{const rows=JSON.parse(localStorage.getItem('eedoo-destinations-'+cityId)||'[]');setRecent(Array.isArray(rows)?rows.filter(p=>p&&typeof p.name==='string'&&inCity(p,city)).slice(0,5):[]);}catch{setRecent([]);}},[cityId]);
  const select=(p:Place,target:Target)=>{if(!inCity(p,currentCity.current)){setError('Выберите точку в выбранном городе.');return;}geoGeneration.current++;setGeoBusy(false);invalidate();if(target==='start')setStart(p);else{setEnd(p);remember(p);}setMapPick(target==='start'&&!end?'end':target==='end'&&!start?'start':null);setDraft(null);setPicker(false);setSheet('main');searchGeneration.current++;setSearchBusy(false);panelScroll.current?.scrollTo({top:0});};
- const openDetail=(p:Place)=>setDetail(p);
+ const openDetail=(p:Place)=>{setDetail(p);void requestPlace(cityId,mode,p.id).then(full=>setDetail(current=>current?.id===p.id?full:current)).catch(()=>{});};
  const beginMapPick=(target:Target)=>{if(target==='start'){geoGeneration.current++;setGeoBusy(false);}setPicker(false);searchGeneration.current++;setSearchBusy(false);setError('');if(mapPick!==target)setDraft(null);setMapPick(target);setSheet('main');const p=(target==='start'?start:end);if(p&&map.current)map.current.setView([p.lat,p.lon],Math.max(map.current.getZoom(),15));};
  const cancelMapPick=()=>{setError('');if(start&&end){setMapPick(null);setDraft(null);}else if(mapPick==='end')beginMapPick('start');};
  const openPicker=()=>{setQuery('');setResults([]);setSearchError('');setSearchBusy(false);searchGeneration.current++;setPicker(true);};
